@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soumik Purkayastha"
+title                    : "Homepage"
 title_separator          : ""
-name                     : &name ""
+name                     : &name "Soumik Purkayastha"
 description              : &description "personal website"
 url                      : https://soumikp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "soumikp"
+  name             : ""
   avatar           : "profile.jpeg"
   bio              : "Graduate Student and Research Assistant, Department of Biostatistics"
   location         : "Ann Arbor, MI"
