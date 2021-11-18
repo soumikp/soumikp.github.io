@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please click [here](https://github.com/soumikp/soumikp.github.io/blob/master/files/CV_Nov2021.pdf) for the most recent copy of my resume.
+
 Education
 ======
 * B.Sc. in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17
