@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Soumik Purkayastha"
   avatar           : "profile.jpeg"
-  bio              : "Graduate Student @umichsph"
+  bio              : "Graduate Student and Research Assistant"
   location         : "Ann Arbor, MI"
-  employer         :
+  employer         : "Department of Biostatistics, University of Michigan"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=soumik+purkayastha"
   googlescholar    : "https://scholar.google.com/citations?user=D7z8d5sAAAAJ&hl=en"
-  email            :
+  email            : "soumikp@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "soumikp"
   google_plus      :
   keybase          :
   instagram        : "penguinhologram"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/soumik-purkayastha-a74989205/"
   orcid            : "https://orcid.org/0000-0002-3619-2804"
   pinterest        :
   soundcloud       :
@@ -191,17 +191,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -227,15 +216,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
