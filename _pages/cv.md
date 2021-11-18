@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/CV_Nov2021.pdf" type="application/pdf">
 
 Education
 ======
