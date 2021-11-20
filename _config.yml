@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Soumik Purkayastha"
 description              : &description "personal website"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Soumik Purkayastha"
   avatar           : "profile.jpeg"
   bio              : "Graduate Student and Research Assistant, Department of Biostatistics"
   location         : "Ann Arbor, MI"
