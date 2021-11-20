@@ -9,22 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](https://github.com/soumikp/soumikp.github.io/blob/master/files/CV_Nov2021.pdf) for the most recent copy of my resume.
+You can find my [latest resume here](https://github.com/soumikp/soumikp.github.io/blob/master/files/CV_Nov2021.pdf). 
 
 Education
 ======
-* B.Sc. in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17
-* M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19
-* M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21
 * Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), expected 2023
+* M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21
+* M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19
+* B.Sc. in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17
+
+
+
 
 Work experience
 ======
-* Summer 2018: Statistical Analyst
-  * Walmart Labs
-
-* Summer 2021: Statistical Analyst
-  * Apple Inc. 
+* Statistical Analyst Intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May - June 2018.
+* Statistical Analyst Intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May - August, 2021. 
   
 Computing Skills
 ======

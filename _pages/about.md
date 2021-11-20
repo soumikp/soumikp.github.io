@@ -9,8 +9,12 @@ redirect_from:
 ---
 
 ## About me
-I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). My interests lie in understanding and developing statistical methods motivated by problems arising from network analyses. Currently my research focuses on understanding asymmetric behaviour in comorbid mental health outcomes like depression and anxiety. My methodological interests include (and are not restricted to) Bayesian methods, causal inference and semi/non-parametric approaches. I love challenges in statistical computing and spend most of my time rubber-ducking my code to myself. 
+I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). As of Fall 2021, I will be starting my third year here in [Ann Arbor](https://www.annarbor.org). My methodological interests include (and are not restricted to) Bayesian methods, causal inference and semi/non-parametric approaches. I love challenges in statistical computing and spend most of my time rubber-ducking my code to myself. 
 
-I am currently a member of [Peter Song's](https://sph.umich.edu/faculty-profiles/song-peter.html) [research group](http://websites.umich.edu/~songlab/) in addition to being part of a [consortium](http://diabeticfootconsortium.org) of clinicians and analysts interested in developing statistical methods to analyse images of diabetes foot ulcers in patients within the US.
+Currently, I am a member of [Peter Song's](https://sph.umich.edu/faculty-profiles/song-peter.html) [research group](http://websites.umich.edu/~songlab/) where my research focuses on understanding and developing methods motivated by problems arising in the statistical analyses of networks. Currently my research focuses on understanding asymmetric behaviour in comorbid mental health outcomes like depression and anxiety. I'm also a part of the NIH-funded multi-centre [Diabetes Foot Consortium](http://diabeticfootconsortium.org) of clinicians and analysts where we study diabetic foot ulcers, a common and burdensome complication of diabetes and the leading cause of lower limb amputations in the United States.
+
+
+
+
 
 
