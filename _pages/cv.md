@@ -21,8 +21,8 @@ Education
 
 Work experience
 ======
-* Statistical Analyst Intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May - August, 2021. 
-* Statistical Analyst Intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May - June 2018.
+* Data science intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May - August, 2021. 
+* Statistical analyst intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May - June 2018.
 
   
 Computing Skills
