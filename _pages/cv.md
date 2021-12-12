@@ -30,7 +30,7 @@ Computing Skills
 * Languages: R (advanced), C++ and Python (intermediate) 
 * Software: SAS and Minitab.
 
-Publications
+Publications (in reverse-chronological order)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
