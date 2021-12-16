@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Soumik Purkayastha"
   avatar           : "profile.jpeg"
-  bio              : "Graduate Student and Research Assistant, Department of Biostatistics"
-  location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  bio              : "Graduate Student and Research Assistant, Department of Biostatistics, University of Michigan"
+  location         : 
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=soumik+purkayastha"
   googlescholar    : "https://scholar.google.com/citations?user=D7z8d5sAAAAJ&hl=en"
   email            : "soumikp@umich.edu"
