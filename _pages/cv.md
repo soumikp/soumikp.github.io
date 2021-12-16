@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://github.com/soumikp/soumikp.github.io/blob/master/files/cv_dec2021.pdf" target="_blank">PDF.</a>
+
 You can find my [latest resume here](https://github.com/soumikp/soumikp.github.io/blob/master/files/cv_dec2021.pdf). 
 
 Education
