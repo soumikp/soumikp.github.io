@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## About my work
 I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). In Fall 2021, I started my third year here in [Ann Arbor](https://www.annarbor.org). 
 
 Broadly, I am interested in scaleable and flexible statistical models for design and analysis of biomedical studies and their applications to medical or social science and public policy. The research that I work on include Bayesian methods as well as classical semi- and non-parametric approaches. I love challenges in statistical computing and spend most of my time rubber-ducking my code to myself. 
