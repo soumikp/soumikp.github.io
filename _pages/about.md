@@ -9,11 +9,6 @@ redirect_from:
 ---
 
 
-<body> 
- <?php  $lang="en"; $userid="D7z8d5sAAAAJ"; $pagesize="100"; 
-include 'curl.php'; ?>
-</body> 
-
 ## About my work
 
 I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). In Fall 2021, I started my third year here in [Ann Arbor](https://www.annarbor.org). 
