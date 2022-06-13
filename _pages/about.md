@@ -62,22 +62,15 @@ I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk
   <div class="column">
    <p> 
    ![My birthday gift for <a href="https://en.wikipedia.org/wiki/Kendrick_Lamar">Kendrick</a>!](kendrick.jpeg){width="1324px" height="500px"}
-   
    <br>
-   
    ![My obsession with <a href="https://en.wikipedia.org/wiki/Anthony_Bourdain">Anthony Bourdain</a> continues.](bourdain.png){width="1324px" height="500px"}
-   
     </p>
   </div>
   <div class="column">
-   <p> 
-   
+   <p>
    ![I recently learnt about <a href="https://en.wikipedia.org/wiki/Chalino_Sánchez">Chalino Sanchez</a>.](chalino.jpeg){width="1324px" height="500px"}
-   
    <br>
-   
    ![A sketch of <a href="https://en.wikipedia.org/wiki/Henri_Cartier-Bresson">Henri Cartier-Bresson</a>.](bresson.jpeg){width="1324px" height="500px"}
-   
     </p>
   </div>
 </div>
