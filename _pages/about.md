@@ -21,3 +21,63 @@ As of August 2020, I am a member of Dr. [Peter Song's](https://sph.umich.edu/fac
 ## Other stuff
 
 I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/) in college but as is the case with a lot of students, those took a backseat once I started graduate school. One of my 2022 resolutions is to try and pursue things outside my research that excite me just as much. Here are some of my recent sketches. You can find more sketches and some of my recent photographs on my [Instagram profile](https://www.instagram.com/penguinhologram/). Here are a few of my recent posts - hope you like them!
+
+
+![My birthday gift for <a href="https://en.wikipedia.org/wiki/Kendrick_Lamar">Kendrick</a>!](kendrick.jpeg){width="600px" height="500px"}
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.caption {
+    text-align: center;
+}
+
+.figure {
+        border: 1px;
+        border-style: groove;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px  rgba(0, 0, 0, 0.19);
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+   <p> 
+   ![My birthday gift for <a href="https://en.wikipedia.org/wiki/Kendrick_Lamar">Kendrick</a>!](https://github.com/soumikp/soumikp.github.io/blob/master/_pages/kendrick.jpeg){width="1324px" height="500px"}
+   <br>
+   ![My obsession with <a href="https://en.wikipedia.org/wiki/Anthony_Bourdain">Anthony Bourdain</a> continues.](bourdain.png){width="1324px" height="500px"}
+    </p>
+  </div>
+  <div class="column">
+   <p>
+   ![I recently learnt about <a href="https://en.wikipedia.org/wiki/Chalino_Sánchez">Chalino Sanchez</a>.](chalino.jpeg){width="1324px" height="500px"}
+   <br>
+   ![A sketch of <a href="https://en.wikipedia.org/wiki/Henri_Cartier-Bresson">Henri Cartier-Bresson</a>.](bresson.jpeg){width="1324px" height="500px"}
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
