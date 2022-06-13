@@ -20,4 +20,4 @@ As of August 2020, I am a member of Dr. [Peter Song's](https://sph.umich.edu/fac
 
 ## Other stuff
 
-I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/) in college but as is the case with a lot of students, those took a backseat once I started graduate school. One of my 2022 resolutions is to try and pursue things outside my research that excite me just as much. Here are some of my recent sketches. You can find more sketches and some of my recent photographs on my [Instagram profile](https://www.instagram.com/penguinhologram/). 
+I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/) in college but as is the case with a lot of students, those took a backseat once I started graduate school. One of my 2022 resolutions is to try and pursue things outside my research that excite me just as much. You can find recent sketches and photographs on my [Instagram profile](https://www.instagram.com/penguinhologram/) - hope you like them! 
