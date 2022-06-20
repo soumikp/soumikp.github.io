@@ -13,7 +13,7 @@ You can find my [latest resume here](https://github.com/soumikp/soumikp.github.i
 
 Education
 ======
-* Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), expected 2023
+* Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), in-progress.
 * M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21
 * M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19
 * B.Sc. in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17
