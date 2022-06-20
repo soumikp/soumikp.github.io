@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+<style>
+body {
+text-align: justify}
+</style>
+
 {% include base_path %}
 
 You can find my [latest resume here](https://github.com/soumikp/soumikp.github.io/blob/master/files/cv_dec2021.pdf). 
