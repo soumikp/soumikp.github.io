@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-You can find my [latest resume here](https://github.com/soumikp/soumikp.github.io/blob/master/files/cv_june2022.pdf). 
+You can find my [latest resume here](https://github.com/soumikp/soumikp.github.io/blob/master/files/CV_Oct2022.pdf). 
 
 Education
 ======
