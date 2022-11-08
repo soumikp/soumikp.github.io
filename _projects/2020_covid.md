@@ -1,7 +1,7 @@
 ---
 title: "Predictions, role of interventions and effects of a historic national lockdown in India’s response to the COVID-19 pandemic: data science call to arms"
 collection: projects
-permalink: /projects/2020-06-09-hdsr
+permalink: /projects/2020-covid
 date: 2020-06-09
 venue: 'Harvard Data Science Review'
 paperurl: 'https://hdsr.mitpress.mit.edu/pub/r1qq01kw/release/6'
