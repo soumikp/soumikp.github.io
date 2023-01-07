@@ -11,7 +11,7 @@
 
 
 
-<title>Publications</title>
+<title>fastMI: a fast and consistent copula-based estimator of mutual information.</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -348,20 +348,28 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Publications</h1>
+<h1 class="title toc-ignore">fastMI: a fast and consistent copula-based
+estimator of mutual information.</h1>
 
 </div>
 
 
-<style>
-body {
-text-align: justify}
-</style>
-<p>You can also find my articles on <a href="https://scholar.google.com/citations?user=D7z8d5sAAAAJ&amp;hl=en">Google
-scholar profile</a>.</p>
-<p>{% include base_path %}</p>
-<p>{% for post in site.publications reversed %} {% include
-archive-single.html %} {% endfor %}</p>
+<p><strong>Abstract:</strong> As a fundamental concept in information
+theory, mutual information (MI) has been commonly applied to quantify
+association between random variables. Most existing estimators of MI
+have unstable statistical performance since they involve parameter
+tuning. We develop a consistent and powerful estimator, called fastMI,
+that does not incur any parameter tuning. Using a copula formulation,
+fastMI estimates MI by leveraging Fast Fourier transformation-based
+estimation of the underlying density. Extensive simulation studies
+reveal that fastMI outperforms state-of-the-art estimators with improved
+estimation accuracy and reduced run time for large data sets. fastMI not
+only provides a powerful test for independence that controls type I
+error, it may be used for further inference purposes. We establish
+asymptotic normality of fastMI for dependent random variables using a
+new data-splitting analytic argument. Anticipating that fastMI will be a
+powerful tool in estimating mutual information in a broad range of data,
+we develop an R package fastMI for broader dissemination.</p>
 
 
 
