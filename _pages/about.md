@@ -10,7 +10,7 @@ redirect_from:
 
 ## About my work
 
-I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). In Fall 2021, I started my third year here in [Ann Arbor](https://www.annarbor.org).
+I am a graduate student in the [Department of Biostatistics](https://www.linkedin.com/in/soumik-purkayastha-a74989205/) at the [University of Michigan](www.umich.edu). In Fall 2022, I started my fourth year here in [Ann Arbor](https://www.annarbor.org).
 
 Broadly, I am interested in scaleable and flexible statistical models for design and analysis of biomedical studies and their applications to medical or social science and public policy. The research that I work on include Bayesian methods as well as classical semi- and non-parametric approaches. I love challenges in statistical computing and spend most of my time rubber-ducking my code to myself.
 
@@ -21,3 +21,13 @@ As of August 2020, I am a member of Dr. [Peter Song's](https://sph.umich.edu/fac
 ## Other stuff
 
 I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/) in college but as is the case with a lot of students, those took a backseat once I started graduate school. One of my 2022 resolutions is to try and pursue things outside my research that excite me just as much. You can find recent sketches and photographs on my [Instagram profile](https://www.instagram.com/penguinhologram/) - hope you like them! 
+
+## STATCOM 
+
+I'm proud to say that my department is home to [STATCOM: Statistics in the Community](https://sph.umich.edu/biostat/statcom/). STATCOM is a community outreach program provided by graduate students in the Departments of Biostatistics at the University of Michigan. The program offers the expertise of statistics graduate students, free of charge, to non-profit governmental and community organizations in the areas of data organization, analysis, and interpretation. I have been very fortunate to find meaningful consulting work with a host of community partners. A few of STATCOM's recent projects include partnerships with 
+
+- The [Michigan Center for Youth Justice (MCYJ)](https://www.miyouthjustice.org): STATCOM's partnership with the MCYJ revolves around understanding the patterns of special investigations and violations occurring in juvenile justice facilities throughout the state.
+- The [Detroit Housing Commission (DHC)](https://www.dhcmi.org) and [Poverty Solutions (PS)](https://poverty.umich.edu): STATCOM has been working with the DHC and PS to investigate evictions among families with children in Detroit, in order to reduce accompanied as well as unaccompanied youth homelessness rates.
+- [Stand with Trans (SWT)](https://standwithtrans.org): STATCOM is collaborating with SWT with the aim of identifying gaps in, and further improving online resources that are designed to empower and support transgender youth. 
+
+Since 2022, I have been serving as Co-president of STATCOM. It has been both challenging as well as rewarding. I expect to continue with STATCOM until I graduate from the university. 
