@@ -14,8 +14,6 @@ text-align: justify}
 
 {% include base_path %}
 
-files/soumikp_cv_feb_2023.pdf
-
 You can find my [latest resume here](https://soumikp.github.io/files/soumikp_resume_feb_2023.pdf). If you are looking for further information, please see a [more detailed CV](https://soumikp.github.io/files/soumikp_cv_feb_2023.pdf). 
 
 Education
@@ -28,13 +26,14 @@ Education
 
 Work experience
 ======
-* Data science intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May - August, 2021. 
-* Statistical analyst intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May - June 2018.
+* Research assistant, [Michigan Medicine](https://www.uofmhealth.org/) (for the [Diabetic Foot Consortium](https://diabeticfootconsortium.org/)), May 2020 - 
+* Data science intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May, 2021 - Aug., 2021. 
+* Statistical analyst intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May, 2018 - Jun., 2018.
 
   
 Computing Skills
 ======
-* Languages: R (advanced), C++ and Python (intermediate) 
+* Languages: R (advanced), SQL, C++ and Python (intermediate) 
 * Software: SAS and Minitab.
 
 Publications (in reverse-chronological order)
