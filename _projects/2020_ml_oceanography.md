@@ -2,7 +2,6 @@
 title: "Machine learning and oceanography"
 collection: projects
 permalink: /projects/2020_ml_oceanography
-date: 2020-2023
 ---
 
 <style>
