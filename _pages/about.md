@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a graduate student in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at the [University of Michigan](https://umich.edu/). In Fall 2022, I started my fourth year here in [Ann Arbor](https://www.annarbor.org).
 
 ## 📣 News
@@ -21,9 +22,3 @@ I am a graduate student in the [Department of Biostatistics](https://sph.umich.e
 Broadly, I am interested in scaleable and flexible statistical models for design and analysis of biomedical studies and their applications to medical or social science and public policy. The research that I work on include Bayesian methods as well as classical semi- and non-parametric approaches. I love challenges in statistical computing and spend most of my time rubber-ducking my code to myself.
 
 Over the years I have had extensive experience with C++, Python, R and UNIX. Through my research and internships I have learnt to combine computational expertise with statistical knowledge (e.g. data mining, regression, clustering, decision trees, factor analysis, neural networks) to handle domain-specific problems. I am proficient in working with large data sets using strategies like parallelization, MapReduce, and memory-efficient data.
-
-## Other stuff
-
-I used to sketch and take photographs on my [Canon 600D](https://www.canon.co.uk/for_home/product_finder/cameras/digital_slr/eos_600d/) in college but as is the case with a lot of students, those took a backseat once I started graduate school. One of my 2022 resolutions is to try and pursue things outside my research that excite me just as much. You can find recent sketches and photographs on my [Instagram profile](https://www.instagram.com/penguinhologram/) - hope you like them! 
-
-## 

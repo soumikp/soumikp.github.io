@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
 
@@ -9,11 +13,13 @@ main:
   - title: "Teaching"
     url: /teaching/    
   
-  - title: "CV"
-    url: /cv/
-    
   - title: "STATCOM"
     url: /statcom/
+    
+  - title: "Other stuff"
+    url: /otherstuff/  
+    
+    
 
 # - title: "Portfolio"
   #   url: /portfolio/
