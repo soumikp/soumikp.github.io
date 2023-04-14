@@ -10,6 +10,13 @@ body {
 text-align: justify}
 </style>
 
+As of August 2020, I am a member of Dr. [Peter Song's](https://sph.umich.edu/faculty-profiles/song-peter.html) [research group](http://websites.umich.edu/~songlab/) where my research focuses on information geometry-based causal discovery and inference. I have recently started exploring conformal predictions as well.
+
+I'm also a part of the [NIH](https://www.nih.gov)-funded multi-centre [Diabetes Foot Consortium](http://diabeticfootconsortium.org) of clinicians and analysts where we study diabetic foot ulcers, a common complication of diabetes and the leading cause of lower limb amputations in the United States. Led by Dr. [Cathie Spino](https://sph.umich.edu/faculty-profiles/spino-cathie.html), my work involves the statistical analyses of ulcer-related wound images. 
+
+Since March 2020, I have also been working on studying and modeling the spread of infectious diseases with a [group of statisticians, epidemiologists and economists](https://umich-biostatistics.shinyapps.io/covid19/) led by Dr. [Bhramar Mukherjee](https://sph.umich.edu/faculty-profiles/mukherjee-bhramar.html).
+
+
 ## Conformal predictions (2023-)
 
 <details>
@@ -48,7 +55,7 @@ One of my earliest collaborations was with a group of researchers from India who
 
 My collaborators have helped me not only with analyzing oceanography data but also with understanding the massive impact of climate change on countless fishing villages along the coast of India. I have continued with this collaboration and am actively involved with a new machine learning-based project for time series forecasting of fish catch data.
 
-For more information on this project and related papers please see my [publications](https://soumikp.github.io/publications/) page. 
+For more information on this project and related papers please see my <a href="https://soumikp.github.io/publications/">publications</a> page. 
 </details>
 
 ## The COV-IND-19 group (2020-22)
@@ -60,5 +67,5 @@ Ever since COVID-19 became part of our lives, I have been involved with a group 
 
 Among many other challenges in improving health disparities, COVID-19 was a stark reminder of how underprepared humanity is, in terms of informing and protecting those with an elevated risk of illnesses during a pandemic. I hope that through collaborative research, we have an improved understanding of how diseases spread and have differential impacts on many communities. 
 
-For more information on this project and related papers please see my [publications](https://soumikp.github.io/publications/) page. 
+For more information on this project and related papers please see my <a href="https://soumikp.github.io/publications/">publications</a> page. 
 </details>
