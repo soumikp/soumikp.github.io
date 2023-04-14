@@ -34,7 +34,7 @@ Investigating public health disparities requires identifying underlying causal f
 <details>
 <summary>Click here for more details</summary>
 <br>
-The [Diabetes Foot Consortium](https://diabeticfootconsortium.org/) is a multi-centre consortium funded by the NIH. In addition to performing standard statistical data analyses for the consortium, I have built a web-based dashboard that allows clinicians to access and download graphical and summary statistics associated with the study. In this dashboard, I was able to automate some data pooling and analysis pipelines, allowing for faster sharing of findings within the group. 
+The <a href="https://diabeticfootconsortium.org/">Diabetes Foot Consortium</a> is a multi-centre consortium funded by the NIH. In addition to performing standard statistical data analyses for the consortium, I have built a web-based dashboard that allows clinicians to access and download graphical and summary statistics associated with the study. In this dashboard, I was able to automate some data pooling and analysis pipelines, allowing for faster sharing of findings within the group. 
 
 In addition to my work as an analyst, I took part in writing grants for ancillary projects within the consortium.
 </details>
