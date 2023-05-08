@@ -12,9 +12,10 @@ I am a graduate student in the [Department of Biostatistics](https://sph.umich.e
 
 ## 📣 News
 
-- 2023.03.27 - I have been awarded the 2023 Rising Star Award by the University of Michigan for my work with [STATCOM](https://sph.umich.edu/biostat/statcom/)!  
-- 2023.03.19 - Presented my first thesis chapter at [ENAR](https://www.enar.org/meetings/spring2023/program/scientific_program.pdf)! 
-- 2023.03.18 - I have been selected as a recipient of a travel award for the [CBMS Conference](https://web.stat.tamu.edu/~yni/cbms/) -- Foundations of Causal Graphical Models and Structure Discovery supported by the National Science Foundation (NSF DMS-2227849) and Texas A&M Institute for Applied Mathematics and Computational Science (IAMCS). 
+- 2023.05.08 - Awarded the [Rackham Conference Travel Grant](https://rackham.umich.edu/funding/funding-types/rackham-conference-travel-grant/) -- to present my research at the 2023 Annual [WNAR/IMS](https://www.wnar.org/event-5048851) meeting!
+- 2023.03.27 - Awarded the 2023 Rising Star Award by the University of Michigan for my work with [STATCOM](https://sph.umich.edu/biostat/statcom/)!  
+- 2023.03.19 - Presented my first thesis chapter at the 2023 Annual [ENAR/IMS](https://www.enar.org/meetings/spring2023/program/scientific_program.pdf) meeting! 
+- 2023.03.18 - Selected as a recipient of a travel award for the [CBMS Conference](https://web.stat.tamu.edu/~yni/cbms/) -- Foundations of Causal Graphical Models and Structure Discovery supported by the National Science Foundation (NSF DMS-2227849) and Texas A&M Institute for Applied Mathematics and Computational Science (IAMCS). 
 - 2023.02.27 - Awarded the [Rackham Predoctoral Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-predoctoral-fellowship-program/) for 2023-24! 
 
 ## 📖 Research
