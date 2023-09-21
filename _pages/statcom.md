@@ -17,6 +17,6 @@ I'm proud to say that my department is home to [STATCOM: Statistics in the Commu
 - The [Detroit Housing Commission (DHC)](https://www.dhcmi.org) and [Poverty Solutions (PS)](https://poverty.umich.edu): STATCOM has been working with the DHC and PS to investigate evictions among families with children in Detroit, in order to reduce accompanied as well as unaccompanied youth homelessness rates.
 - [Stand with Trans (SWT)](https://standwithtrans.org): STATCOM is collaborating with SWT with the aim of identifying gaps in, and further improving online resources that are designed to empower and support transgender youth. 
 
-Since 2022, I have been serving as Co-president of STATCOM. It has been both challenging as well as rewarding. I expect to continue with STATCOM until I graduate from the university. 
+From 2022-23, I had the honour of serving as Co-president of STATCOM. It has been both challenging as well as rewarding. I expect to continue with STATCOM until I graduate from the university. 
 
 

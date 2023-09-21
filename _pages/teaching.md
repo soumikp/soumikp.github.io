@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Talks"
 permalink: /teaching/
 author_profile: true
 ---
@@ -14,7 +14,7 @@ text-align: justify}
 <details>
 <summary>Click here for more details</summary>
 <br>
-Come back later.
+Please find my slides [here](https://soumikp.github.io/files/2023_jsm_soumikp.pdf)!
 </details>
 
 
@@ -22,14 +22,14 @@ Come back later.
 <details>
 <summary>Click here for more details</summary>
 <br>
-Come back later.
+Please find my slides [here](https://soumikp.github.io/files/2023_wnar_soumikp.pdf)!
 </details>
 
 ## 2023 ENAR/IMS meeting
 <details>
 <summary>Click here for more details</summary>
 <br>
-Come back later.
+Please find my poster [here](https://soumikp.github.io/files/2023_enar_soumikp.pdf)!
 </details>
 
 
@@ -42,8 +42,9 @@ In the summer of 2022, I taught a wonderful cohort of undergraduate trainees at 
 
 I taught two introductory courses, on linear regression and probability theory. You can find the relevant resources linked below. 
 
-- Introduction to linear regression: [slides](https://rpubs.com/soumikp/bdsi2022LinRegSlides) and [handouts](https://rpubs.com/soumikp/bdsi2022LinRegHandout). 
-- Introduction to probability theory: [slides](https://rpubs.com/soumikp/bdsi2022ProbSlides) and [handouts](https://rpubs.com/soumikp/bdsi2022ProbHandout). 
+1. Introduction to linear regression: <a href="https://rpubs.com/soumikp/bdsi2022LinRegSlides">slides</a> and <a href="https://rpubs.com/soumikp/bdsi2022LinRegHandout">handouts</a>.
+
+2. Introduction to probability theory: <a href="https://rpubs.com/soumikp/bdsi2022ProbSlides">slides</a> and <a href="https://rpubs.com/soumikp/bdsi2022ProbHandout">handouts</a>.
 
 This Summer Institute in Biostatistics (SIBS) program is sponsored by the National Heart, Lung, and Blood Institute (NHLBI), grant R25HL147207, with the intent to introduce undergrad students to the field of biostatistics. Courses will include data collected in studies of heart, lung, blood, and sleep disorders. To learn more about our sister programs, please visit the NHLBI SIBS program website.    
 </details>
