@@ -11,7 +11,9 @@ redirect_from:
 I am a graduate student in the [Department of Biostatistics](https://sph.umich.edu/biostat/) at the [University of Michigan](https://umich.edu/). In Fall 2023, I started my fifth (and final 🤞) year here in [Ann Arbor](https://www.annarbor.org).
 
 ## 📣 News
+
 - 2023.08.08 - Received the [2023 - 24 Rackham Conference Travel Grant](https://rackham.umich.edu/funding/funding-types/rackham-conference-travel-grant/) to present my research at the 2023  [Joint Statistical Meetings (JSM)](https://ww2.amstat.org/meetings/jsm/2023/)!
+- 2023.07.31 - My paper on [fastMI: a fast and consistent copula-based nonparametric estimator of mutual information](https://arxiv.org/abs/2212.10268) is accepted for publication by the Journal of Multivariate Analysis!
 - 2023.06.20 - Received the [2023 WNAR Best Student Paper Award (written category)](https://wnarofibs.wildapricot.org/news/13228087) for my work on [asymmetric predictability in causal discovery](https://arxiv.org/abs/2210.14455).
 - 2023.05.08 - Received the [2022 - 23 Rackham Conference Travel Grant](https://rackham.umich.edu/funding/funding-types/rackham-conference-travel-grant/) to present my research at the 2023 Annual [WNAR/IMS](https://www.wnar.org/event-5048851) meeting!
 - 2023.03.27 - Awarded the 2023 Rising Star Award by the University of Michigan for my work with [STATCOM](https://sph.umich.edu/biostat/statcom/)!  
