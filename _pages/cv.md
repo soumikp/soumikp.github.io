@@ -36,11 +36,14 @@ Computing Skills
 * Languages: R (advanced), SQL, C++ and Python (intermediate) 
 * Software: SAS and Minitab.
 
-Publications (in reverse-chronological order)
+[Publications](https://soumikp.github.io/publications/)
 ======
-  <ul>{% for post in site.publications reversed %}
+
+[Talks](https://soumikp.github.io/teaching/)
+======
+<!--    <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
 
 <!--  
 Talks
