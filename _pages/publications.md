@@ -12,5 +12,6 @@ text-align: justify}
 
 You can also find my articles on [Google scholar profile](https://scholar.google.com/citations?user=D7z8d5sAAAAJ&hl=en).
 
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-mypublications%2Fsoumikp&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FyyXRc9k9cbCbGqSnt&noBootstrap=1&jsonp=1"></script>
+
 
