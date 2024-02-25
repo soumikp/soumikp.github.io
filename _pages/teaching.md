@@ -10,7 +10,7 @@ body {
 text-align: justify}
 </style>
 
-## 2023 UM Biostatistics Student Seminar
+## 2023 UM Biostatistics Student Seminar [video]
 <details>
 <summary>Click here for more details</summary>
 <br>
@@ -18,28 +18,28 @@ text-align: justify}
 </details>
 
 
-## 2023 JSM/ASA meeting
+## 2023 JSM/ASA meeting [slides]
 <details>
 <summary>Click here for more details</summary>
 <br>
 Please find my slides <a href="https://soumikp.github.io/files/2023_jsm_soumikp.pdf">here</a>!
 </details>
 
-## 2023 WNAR/IMS meeting
+## 2023 WNAR/IMS meeting [slides]
 <details>
 <summary>Click here for more details</summary>
 <br>
 Please find my slides <a href="https://soumikp.github.io/files/2023_wnar_soumikp.pdf">here</a>!
 </details>
 
-## 2023 ENAR/IMS meeting
+## 2023 ENAR/IMS meeting [poster]
 <details>
 <summary>Click here for more details</summary>
 <br>
 Please find my poster <a href="https://soumikp.github.io/files/2023_enar_soumikp.pdf">here</a>!
 </details>
 
-## 2022 Environmental Statistics Day
+## 2022 Environmental Statistics Day [video]
 
 <details>
 <summary>Click here for more details</summary>
@@ -49,7 +49,7 @@ Please find my poster <a href="https://soumikp.github.io/files/2023_enar_soumikp
 
 
 
-## 2022 Summer Institute in Biostatistics (SIBS) Program
+## 2022 Summer Institute in Biostatistics (SIBS) Program [slides and handouts]
 
 <details>
 <summary>Click here for more details</summary>
