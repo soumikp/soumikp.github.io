@@ -10,13 +10,20 @@ body {
 text-align: justify}
 </style>
 
+## 2023 UM Biostatistics Student Seminar
+<details>
+<summary>Click here for more details</summary>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMH_g-yz7Gk?si=YMAVFBgwTkUMyGsU&amp;start=2952" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+
+
 ## 2023 JSM/ASA meeting
 <details>
 <summary>Click here for more details</summary>
 <br>
 Please find my slides <a href="https://soumikp.github.io/files/2023_jsm_soumikp.pdf">here</a>!
 </details>
-
 
 ## 2023 WNAR/IMS meeting
 <details>
@@ -31,6 +38,15 @@ Please find my slides <a href="https://soumikp.github.io/files/2023_wnar_soumikp
 <br>
 Please find my poster <a href="https://soumikp.github.io/files/2023_enar_soumikp.pdf">here</a>!
 </details>
+
+## 2022 Environmental Statistics Day
+
+<details>
+<summary>Click here for more details</summary>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hGj3NkqDFRk?si=WC419ypWdjdIhN_e&amp;start=7742" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</details>
+
 
 
 ## 2022 Summer Institute in Biostatistics (SIBS) Program
