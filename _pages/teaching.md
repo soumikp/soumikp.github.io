@@ -14,7 +14,7 @@ text-align: justify}
 <details>
 <summary>Click here for more details</summary>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pMH_g-yz7Gk?si=CmvM7zClHu87txWX&amp;start=2951" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMH_g-yz7Gk?si=CmvM7zClHu87txWX&amp;start=2965" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
 
@@ -44,7 +44,7 @@ Please find my poster <a href="https://soumikp.github.io/files/2023_enar_soumikp
 <details>
 <summary>Click here for more details</summary>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hGj3NkqDFRk?si=WC419ypWdjdIhN_e&amp;start=7762" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hGj3NkqDFRk?si=WC419ypWdjdIhN_e&amp;start=7770" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </details>
 
 
