@@ -16,7 +16,7 @@ text-align: justify}
 <summary>Click here for more details</summary>
 <br>
 
-Introduction to linear algebra: [slides](https://soumikp.github.io/files/2024_06_25_bdsi.pdf)
+Introduction to linear algebra: <a href="https://soumikp.github.io/files/2024_06_25_bdsi.pdf">slides</a>
 
 This Summer Institute in Biostatistics (SIBS) program is sponsored by the National Heart, Lung, and Blood Institute (NHLBI), grant R25HL147207, with the intent to introduce undergrad students to the field of biostatistics. Courses will include data collected in studies of heart, lung, blood, and sleep disorders. To learn more about our sister programs, please visit the NHLBI SIBS program website.    
 </details>
