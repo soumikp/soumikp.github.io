@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Biostatistics](https://www.sph.pitt.edu/biostatistics) at the [University of Michigan](https://www.pitt.edu). In the summer of 2024, I graduated from the University of Michigan with a Ph.D. in Biostatistics.
+I am an Assistant Professor in the [Department of Biostatistics and Health Data Science](https://www.sph.pitt.edu/biostatistics) at the [University of Pittsburgh](https://www.pitt.edu). In the summer of 2024, I graduated from the University of Michigan, Ann Arbor with a Ph.D. in Biostatistics.
 
 ## 📖 Research
 
