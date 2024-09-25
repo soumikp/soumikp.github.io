@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-You can find my [latest resume here](https://soumikp.github.io/files/soumikp_resume_jan_2024.pdf). If you are looking for further information, please see a [more detailed CV](https://soumikp.github.io/files/soumikp_cv_dec_2023.pdf). 
+Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_oct_2024.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumikp_cv_oct_2024.pdf). 
 
 Education
 ======
