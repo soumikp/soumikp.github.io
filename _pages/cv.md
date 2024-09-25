@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_oct_2024.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumikp_cv_oct_2024.pdf). 
+Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_oct_2024.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumik_cv_oct_2024.pdf). 
 
 Education
 ======
