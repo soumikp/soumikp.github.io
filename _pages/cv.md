@@ -18,17 +18,18 @@ Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_oc
 
 Education
 ======
-* Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-.
-* M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21
-* M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19
-* B.Sc. in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17
+* Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-24.
+* M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21.
+* M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19.
+* B.Sc. (Hons.) in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17.
 
 
 Work experience
 ======
-* Research assistant, [Michigan Medicine](https://www.uofmhealth.org/) (for the [Diabetic Foot Consortium](https://diabeticfootconsortium.org/)), May 2020 - 
-* Data science intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May, 2021 - Aug., 2021. 
-* Statistical analyst intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May, 2018 - Jun., 2018.
+* Research assistant, [Department of Biostatistics at the University of Michigan](https://www.uofmhealth.org/) (for the [Abecasis group](https://genome.sph.umich.edu/wiki/Abecasis_Lab)), September 2019 - April 2020.
+* Research assistant, [SABER group, Department of Biostatistics at the University of Michigan](https://sph.umich.edu/saber/) (for the [Diabetic Foot Consortium](https://diabeticfootconsortium.org/)), May 2020 - July 2023.
+* Data science intern, [AI/ML group, Apple Inc.](https://www.apple.com/careers/us/machine-learning-and-ai.html), May 2021 - August 2021. 
+* Statistical analyst intern, [Global Data Analytics Platform, Walmart Labs](https://careers.walmart.com/teams), May 2018 - June 2018.
 
   
 Computing Skills
