@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Biostatistics and Health Data Science](https://www.sph.pitt.edu/biostatistics) at the [University of Pittsburgh](https://www.pitt.edu). In the summer of 2024, I graduated from the University of Michigan, Ann Arbor with a Ph.D. in Biostatistics.
+I am an Assistant Professor in the [Department of Biostatistics and Health Data Science](https://www.sph.pitt.edu/biostatistics) at the [University of Pittsburgh School of Public Health](https://www.publichealth.pitt.edu). In the summer of 2024, I graduated from the University of Michigan, Ann Arbor with a Ph.D. in Biostatistics.
 
-In addition to my role at Pitt Public Health, I work as a Research Biostatistician at the [Center for Health Equity Research and Promotion, Department of Veteran Affairs](https://www.cherp.research.va.gov) where I am part of an interdisciplinary team of doctors, researchers, clinicians and scholars advancing the quality and equity of health and health care for Veterans.
+In addition to my role at Pitt Public Health, I work as a Research Biostatistician at the [Center for Health Equity Research and Promotion, Department of Veteran Affairs](https://www.cherp.research.va.gov) where I am part of an interdisciplinary team of doctors, researchers, clinicians and scholars advancing the quality and equity of health and health care for veterans.
 
 ## 📖 Research
 
