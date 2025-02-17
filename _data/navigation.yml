@@ -7,14 +7,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
   
-  - title: "Talks"
-    url: /teaching/    
+#  - title: "Talks"
+#    url: /teaching/    
     
-  - title: "Other stuff"
-    url: /otherstuff/  
+#  - title: "Other stuff"
+#    url: /otherstuff/  
     
     
 
