@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_oct_2024.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumik_cv_oct_2024.pdf). 
+Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_feb_2025.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumik_cv_feb_2025.pdf). 
 
 Education
 ======
@@ -34,15 +34,16 @@ Work experience
   
 Computing Skills
 ======
-* Languages: R (advanced), SQL, C++ and Python (intermediate) 
+* Languages: R, Python (advanced), SQL, C++ (intermediate) 
 * Software: SAS and Minitab.
 
+<!--
 [Publications](https://soumikp.github.io/publications/)
 ======
 
 [Talks](https://soumikp.github.io/teaching/)
 ======
-<!--    <ul>{% for post in site.publications reversed %}
+    <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
 
