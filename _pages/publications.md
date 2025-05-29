@@ -12,6 +12,6 @@ text-align: justify}
 
 You can also find my articles on [Google scholar profile](https://scholar.google.com/citations?user=D7z8d5sAAAAJ&hl=en).
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/Ceciz2iNjTZgQNtDc/mypubs_mar_2024.bib&jsonp=1"></script> 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2Fdh4QB7AhfPFFNMTkX&noBootstrap=1&jsonp=1"></script>
 
 
