@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-Here is a brief [biosketch](https://soumikp.github.io/files/Purkayastha_biosketch.pdf) and a more detailed [CV](https://soumikp.github.io/files/Purkayastha_CV.pdf). 
+Here is a brief [biosketch](https://soumikp.github.io/files/Purkayastha_Biosketch.pdf) and a more detailed [CV](https://soumikp.github.io/files/Purkayastha_CV.pdf). 
 
 Education
 ======
