@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Biostatistics and Health Data Science](https://www.sph.pitt.edu/biostatistics) at the [University of Pittsburgh School of Public Health](https://www.publichealth.pitt.edu). In the summer of 2024, I graduated from the University of Michigan, Ann Arbor with a Ph.D. in Biostatistics.
 
-In addition to my role at Pitt Public Health, I work as a Research Biostatistician at the [Center for Health Equity Research and Promotion, Department of Veteran Affairs](https://www.cherp.research.va.gov) where I am part of an interdisciplinary team of doctors, researchers, clinicians and scholars advancing the quality and equity of health and health care for veterans.
+In addition to my role at Pitt Public Health, I work as a Research Biostatistician at the [Center for Healthcare Evaluation, Research, and Promotion (CHERP), Department of Veteran Affairs](https://www.cherp.research.va.gov). CHERP is a Center of Innovation dedicated to understanding and improving health and healthcare outcomes to support VA in providing excellent care and service to all Veterans. 
 
 ## 📖 Research
 

@@ -14,7 +14,7 @@ text-align: justify}
 
 {% include base_path %}
 
-Here is a brief [biosketch](https://soumikp.github.io/files/soumikp_biosketch_feb_2025.pdf) and a more detailed [CV](https://soumikp.github.io/files/soumik_cv_may_2025.pdf). 
+Here is a brief [biosketch](https://soumikp.github.io/files/Purkayastha_biosketch.pdf) and a more detailed [CV](https://soumikp.github.io/files/Purkayastha_CV.pdf). 
 
 Education
 ======
@@ -24,7 +24,7 @@ Education
 * B.Sc. (Hons.) in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17.
 
 
-Work experience
+Prior work experience
 ======
 * Research assistant, [Department of Biostatistics at the University of Michigan](https://www.uofmhealth.org/) (for the [Abecasis group](https://genome.sph.umich.edu/wiki/Abecasis_Lab)), September 2019 - April 2020.
 * Research assistant, [SABER group, Department of Biostatistics at the University of Michigan](https://sph.umich.edu/saber/) (for the [Diabetic Foot Consortium](https://diabeticfootconsortium.org/)), May 2020 - July 2023.
