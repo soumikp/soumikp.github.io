@@ -20,7 +20,7 @@ Education
 ======
 * Ph.D. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-24.
 * M.S. in Biostatistics, [University of Michigan](https://sph.umich.edu/biostat/), 2019-21.
-* M.Stat with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19.
+* M.Stat. with specialisation in Biostatistics, [Indian Statistical Institute](www.isical.ac.in), 2017-19.
 * B.Sc. (Hons.) in Statistics, [St. Xavier's College (Autonomous)](www.sxccal.edu), 2014-17.
 
 
@@ -35,7 +35,7 @@ Prior work experience
 Computing Skills
 ======
 * Languages: R, Python (advanced), SQL, C++ (intermediate) 
-* Software: SAS and Minitab.
+* Software: Stata, SAS, and Minitab.
 
 <!--
 [Publications](https://soumikp.github.io/publications/)
