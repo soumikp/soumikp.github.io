@@ -10,11 +10,10 @@ redirect_from:
 
 ## 📣 News
 
-* **Dec 2025:** Presented "A Mechanistic Framework for Collider Detection in Observational Data" at *CMStatistics* (London) and the *ICSA International Conference* (Taipei).
+* **Dec 2025:** Presented "Examining Directional Association between Depression and Anxiety" at *CMStatistics* (London) and the *ICSA International Conference* (Taipei).
 * **October 2025** New publication in JAMA Network Open! Read more about the [Health-Related Social Needs Among LGB+ Veterans](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840682)! 
 * **Aug-Dec 2025:** Taught [BIOST 2155: Introductory Statistical Learning for Health Sciences](https://github.com/soumikp/2025_sl4hds) as the primary instructor.
 * **Jul 2025** New publication in BMJ Open! Read more about the [Determinants of enrolment rate in 397 clinical trials for healing diabetic foot ulcers: a systematic review](https://bmjopen.bmj.com/content/15/7/e095512.abstract)! 
-* **Summer 2025:** Presented "Examining Directional Association between Depression and Anxiety" at the *Joint Statistical Meetings* (Nashville) and  at the *International Indian Statistical Association (IISA) Conference* (Lincoln).
 
 
 ## 🙋 About me
