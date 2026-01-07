@@ -10,6 +10,8 @@ redirect_from:
 
 ## 📣 News
 
+* **Jan 2026:** Our work on the **Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans** was accepted by JAMA Network Open! Manuscript will be available online soon. 
+* **Jan 2026:** Our paper on **Quantification and cross-fitting inference of asymmetric relations under generative exposure mapping models** is accepted by Statistica Sinica! Manuscript will be available online soon. 
 * **Dec 2025:** Presented "Examining Directional Association between Depression and Anxiety" at *CMStatistics* (London) and the *ICSA International Conference* (Taipei).
 * **October 2025** New publication in JAMA Network Open! Read more about the [Health-Related Social Needs Among LGB+ Veterans](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840682)! 
 * **Aug-Dec 2025:** Taught [BIOST 2155: Introductory Statistical Learning for Health Sciences](https://github.com/soumikp/2025_sl4hds) as the primary instructor.
