@@ -10,10 +10,10 @@ redirect_from:
 
 ## 📣 News
 
+* **Feb 2026:** Our work on the **On Minimum Bregman Divergence** was accepted by Mathematics! Manuscript will be available online soon. 
 * **Jan 2026:** Our work on the **Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans** was accepted by JAMA Network Open! Manuscript will be available online soon. 
 * **Jan 2026:** Our paper on **Quantification and cross-fitting inference of asymmetric relations under generative exposure mapping models** was accepted by Statistica Sinica! Read more [here](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0236_na.pdf). 
 * **October 2025** New publication in JAMA Network Open! Read more about the [Health-Related Social Needs Among LGB+ Veterans](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840682)! 
-* **Aug-Dec 2025:** Taught [BIOST 2155: Introductory Statistical Learning for Health Sciences](https://github.com/soumikp/2025_sl4hds) as the primary instructor.
 * **Jul 2025** New publication in BMJ Open! Read more about the [Determinants of enrolment rate in 397 clinical trials for healing diabetic foot ulcers: a systematic review](https://bmjopen.bmj.com/content/15/7/e095512.abstract)! 
 
 
