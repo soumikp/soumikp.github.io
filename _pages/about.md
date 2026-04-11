@@ -10,11 +10,11 @@ redirect_from:
 
 ## 📣 News
 
+* **Apr 2026:** Our work on **Initiation of Medications for Alcohol Use Disorder Among Hospitalized Veterans: A Retrospective Cohort Study** was accepted by the Annals of Internal Medicine. Paper will be available online soon! 
 * **Feb 2026:** Our work titled **On Minimum Bregman Divergence** was accepted by Mathematics! Read more [here](https://www.mdpi.com/2227-7390/14/4/670). 
 * **Jan 2026:** Our paper on **Quantification and cross-fitting inference of asymmetric relations under generative exposure mapping models** was accepted by Statistica Sinica! Read more [here](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0236_na.pdf). 
 * **Dec 2025:** Our work on the **Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans** was accepted by JAMA Network Open! Read more [here](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845145). 
 * **Oct 2025** New publication in JAMA Network Open! Read more about the [Health-Related Social Needs Among LGB+ Veterans](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2840682)! 
-* **Jul 2025** New publication in BMJ Open! Read more about the [Determinants of enrolment rate in 397 clinical trials for healing diabetic foot ulcers: a systematic review](https://bmjopen.bmj.com/content/15/7/e095512.abstract)! 
 
 
 ## 🙋 About me
