@@ -25,7 +25,7 @@ In addition to my appointment at Pitt, I serve as a Research Biostatistician at 
 
 ## 📖 Research
 
-My research agenda focuses on developing scalable and flexible statistical models for the design and analysis of data linked to biomedical as well as social studies and health policy. I leverage both Bayesian methods and classical semi- and non-parametric approaches to navigate complex data structures. I also maintain a strong focus on statistical computing, developing efficient software packages (such as [`fastMI`](https://github.com/soumikp/fastMI) and [`SEIRfansy`](https://cran.r-project.org/web/packages/SEIRfansy/index.html)) to make robust methodological frameworks accessible for applied analysis.
+My research focuses on developing scalable and flexible statistical models for the design and analysis of data linked to biomedical as well as social studies and health policy. I leverage both Bayesian methods and classical semi- and non-parametric approaches to explore complex data structures. I also maintain a strong focus on statistical computing, developing efficient software packages (such as [`fastMI`](https://github.com/soumikp/fastMI), [`SEIRfansy`](https://cran.r-project.org/web/packages/SEIRfansy/index.html), and [`causalGEM`](https://github.com/soumikp/causalGEM)) to make robust methodological frameworks accessible for applied analysis.
 
 My current research interests include:
 
