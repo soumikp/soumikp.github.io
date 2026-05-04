@@ -15,7 +15,7 @@ pagetitle: "Home — Soumik Purkayastha"
     </div>
 
     <p class="program">
-      I develop statistical and AI methods for discovering structure, quantifying association, and extracting safety-relevant signal from complex health data. My methodological work spans weighted Bayesian network learning, information-theoretic association estimation, and federated inference. With colleagues at CHERP, I co-develop clinical NLP for medical device safety surveillance and serve as the statistician on Veteran-focused health services research projects examining medication initiation, social risks, and equity in care.
+      I develop statistical and AI methods for discovering structure, quantifying association, and extracting safety-relevant signal from complex health data. My methodological work spans weighted Bayesian network learning, information-theoretic association estimation, and federated inference. With colleagues at CHERP, I co-develop clinical NLP for medical device safety surveillance and serve as statistician/co-investigator on Veteran-focused health services research projects examining medication initiation, social risks, and equity in care.
     </p>
 
     <div class="contact-row">
@@ -120,25 +120,25 @@ pagetitle: "Home — Soumik Purkayastha"
     <div class="software-grid">
 
       <div class="pkg">
-        <div class="name">fastMI</div>
+        <div class="name"><a href="https://github.com/soumikp/fastMI" target="_blank" class="name">fastMI</a></div>
         <div class="desc">Fast and consistent copula-based nonparametric estimator of mutual information.</div>
         <div class="status">R · Github</div>
       </div>
 
       <div class="pkg">
-        <div class="name">causalGEM</div>
+        <div class="name"><a href="https://github.com/soumikp/causalGEM" target="_blank" class="name">causalGEM</a></div>
         <div class="desc">Bivariate causal discovery via the generative exposure model.</div>
         <div class="status">R · Github</div>
       </div>
 
       <div class="pkg">
-        <div class="name">swaoBN</div>
+        <div class="name"><a href="https://github.com/soumikp/2026_surveyCD" target="_blank" class="name">swaoBn</a></div>
         <div class="desc">Survey-weighted, covariate-adjusted ordinal Bayesian network learning.</div>
         <div class="status">R · in development</div>
       </div>
 
       <div class="pkg">
-        <div class="name">FedGEE</div>
+        <div class="name"><a href="https://github.com/soumikp/2026_fedgee" target="_blank" class="name">FedGEE</a></div>
         <div class="desc">Federated generalized estimating equations for multicenter longitudinal data.</div>
         <div class="status">R · in development</div>
       </div>
