@@ -29,9 +29,9 @@ pagetitle: "Home — Soumik Purkayastha"
 
   <section>
     <div class="section-label">Research Program</div>
-    <div class="thrusts">
+    <div class="program-thrusts">
 
-      <div class="thrust">
+      <div class="program-thrust">
         <div class="numeral">i</div>
         <div>
           <h3>Graphical models for causality and association in complex biomedical data</h3>
@@ -40,7 +40,7 @@ pagetitle: "Home — Soumik Purkayastha"
         </div>
       </div>
 
-      <div class="thrust">
+      <div class="program-thrust">
         <div class="numeral">ii</div>
         <div>
           <h3>AI models for medical device safety</h3>
@@ -49,7 +49,7 @@ pagetitle: "Home — Soumik Purkayastha"
         </div>
       </div>
 
-      <div class="thrust">
+      <div class="program-thrust">
         <div class="numeral">iii</div>
         <div>
           <h3>Veteran health services research</h3>
