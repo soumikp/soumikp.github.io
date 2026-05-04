@@ -1,0 +1,181 @@
+---
+title: ""
+pagetitle: "Home — Soumik Purkayastha"
+---
+
+```{=html}
+<header class="hero">
+    <div class="eyebrow">University of Pittsburgh · VA Pittsburgh</div>
+
+    <h1 class="name">Soumik<br>Purkayastha</h1>
+
+    <div class="titles">
+      <p><span class="role">Assistant Professor</span>, Department of Biostatistics &amp; Health Data Science, University of Pittsburgh School of Public Health</p>
+      <p><span class="role">Research Biostatistician</span>, Center for Healthcare Evaluation, Research, and Promotion (CHERP), VA Pittsburgh Healthcare System</p>
+    </div>
+
+    <p class="program">
+      I develop statistical and AI methods for discovering structure, quantifying association, and extracting safety-relevant signal from complex health data. My methodological work spans weighted Bayesian network learning, information-theoretic association estimation, and federated inference. With colleagues at CHERP, I co-develop clinical NLP for medical device safety surveillance and serve as the statistician on Veteran-focused health services research projects examining medication initiation, social risks, and equity in care.
+    </p>
+
+    <div class="contact-row">
+      <a href="mailto:soumik@pitt.edu">soumik@pitt.edu</a>
+      <a href="https://scholar.google.com/citations?user=D7z8d5sAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+      <a href="https://github.com/soumikp" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <a href="https://orcid.org/0000-0002-3619-2804" target="_blank" rel="noopener noreferrer">ORCID</a>
+      <a href="files/Purkayastha_CV.pdf" target="_blank" rel="noopener noreferrer">CV (pdf)</a>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-label">Research Program</div>
+    <div class="thrusts">
+
+      <div class="thrust">
+        <div class="numeral">i</div>
+        <div>
+          <h3>Graphical models for causality and association in complex biomedical data</h3>
+          <p>I develop graphical models for learning causal structure and quantifying directional association under realistic biomedical data conditions — survey weighting, mixed-typed variables, ordinal outcomes, and beyond rigid parametric assumptions. Recent work spans copula-based mutual information, generative exposure models with cross-fitting inference, and weighted ordinal Bayesian networks.</p>
+          <div class="keywords">structure learning · mutual information · ordinal Bayesian networks · cross-fitting</div>
+        </div>
+      </div>
+
+      <div class="thrust">
+        <div class="numeral">ii</div>
+        <div>
+          <h3>AI models for medical device safety</h3>
+          <p>With colleagues at VA Pittsburgh, I co-develop AI models for surveillance of medical-device adverse-event reports — combining rule-based classifiers for auditable extraction of known risks with deep-learning and unsupervised methods for detecting emerging patterns. The current focus is insulin pumps and continuous glucose monitors, with ongoing extensions to broader Veteran-use device safety infrastructure.</p>
+          <div class="keywords">adverse-event surveillance · supervised classification · deep learning · trustworthy AI</div>
+        </div>
+      </div>
+
+      <div class="thrust">
+        <div class="numeral">iii</div>
+        <div>
+          <h3>Veteran health services research</h3>
+          <p>I serve as the statistician on a portfolio of research at CHERP examining medication initiation patterns, social determinants of health, and equity in care among Veterans. Active threads include alcohol use disorder treatment, guideline-directed therapy for heart failure, social risks among sexual and gender minority Veterans, and HPV vaccination.</p>
+          <div class="keywords">causal inference · survey design · equity · pharmacoepidemiology</div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <section class="compact">
+    <div class="section-label">Currently</div>
+    <p class="currently">
+      <span class="label">Working on</span> federated generalized estimating equations for distributed health data; survey-weighted ordinal Bayesian network learning for Veteran mental-health surveys; and the impact of declining drug-overdose mortality on deceased-donor organ transplantation.
+    </p>
+  </section>
+
+  <section>
+    <div class="section-label">Recent work</div>
+    <div class="papers">
+
+      <article class="paper">
+        <div class="year">2026</div>
+        <div>
+          <div class="title"><a href="#">Initiation of Medications for Alcohol Use Disorder among Hospitalized Veterans</a></div>
+          <div class="venue">Annals of Internal Medicine</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2026</div>
+        <div>
+          <div class="title"><a href="#">Quantification and cross-fitting inference of asymmetric relations under generative exposure mapping models</a></div>
+          <div class="venue">Statistica Sinica</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2026</div>
+        <div>
+          <div class="title"><a href="#">Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans</a></div>
+          <div class="venue">JAMA Network Open</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2026</div>
+        <div>
+          <div class="title"><a href="#">On Minimum Bregman Divergence Inference</a></div>
+          <div class="venue">Mathematics</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2025</div>
+        <div>
+          <div class="title"><a href="#">Health-Related Social Needs Among LGB+ Veterans</a></div>
+          <div class="venue">JAMA Network Open</div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">Software</div>
+    <div class="software-grid">
+
+      <div class="pkg">
+        <div class="name">fastMI</div>
+        <div class="desc">Fast and consistent copula-based nonparametric estimator of mutual information.</div>
+        <div class="status">R · Github</div>
+      </div>
+
+      <div class="pkg">
+        <div class="name">causalGEM</div>
+        <div class="desc">Bivariate causal discovery via the generative exposure model.</div>
+        <div class="status">R · Github</div>
+      </div>
+
+      <div class="pkg">
+        <div class="name">swaoBN</div>
+        <div class="desc">Survey-weighted, covariate-adjusted ordinal Bayesian network learning.</div>
+        <div class="status">R · in development</div>
+      </div>
+
+      <div class="pkg">
+        <div class="name">FedGEE</div>
+        <div class="desc">Federated generalized estimating equations for multicenter longitudinal data.</div>
+        <div class="status">R · in development</div>
+      </div>
+
+      <div class="pkg">
+        <div class="name">SEIRfansy</div>
+        <div class="desc">Extended SEIR model with false-negative correction and symptom-based testing.</div>
+        <div class="status">R · CRAN</div>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="section-label">News</div>
+    <div class="news">
+
+      <div class="news-item">
+        <div class="when">Apr 2026</div>
+        <div class="what">Work on medications for alcohol use disorder among hospitalized Veterans accepted at <a href="#">Annals of Internal Medicine</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Feb 2026</div>
+        <div class="what">Paper on minimum Bregman divergence inference accepted at <a href="#">Mathematics</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Jan 2026</div>
+        <div class="what">Paper on quantification and cross-fitting inference under generative exposure mapping models accepted at <a href="#">Statistica Sinica</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Dec 2025</div>
+        <div class="what">Work on racial, ethnic, and sex differences in social-needs concordance among Veterans accepted at <a href="#">JAMA Network Open</a>.</div>
+      </div>
+
+    </div>
+  </section>
+```

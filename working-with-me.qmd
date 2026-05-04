@@ -1,0 +1,67 @@
+---
+title: ""
+pagetitle: "Working with Me — Soumik Purkayastha"
+---
+
+```{=html}
+<!-- Page header -->
+  <header class="page">
+    <div class="eyebrow">Working with Me</div>
+    <h1 class="page-title">Notes for students and collaborators.</h1>
+    <p class="page-intro">
+      My research sits at the intersection of methodological biostatistics, applied AI, and Veteran-focused health services research. I work with students and collaborators who are curious about real-world health data, comfortable thinking carefully about study design and inference, and willing to learn the computational tools — typically R, Python, or both — that make rigorous methods possible. The notes below describe how to get in touch and what kinds of engagement are currently possible.
+    </p>
+  </header>
+
+  <!-- Prospective students -->
+  <section class="page-section">
+    <div class="section-meta">Prospective students</div>
+    <h2 class="section-title">PhD and MS students at Pittsburgh</h2>
+    <div class="section-body">
+      <p>
+        PhD and MS admissions in the <strong>Department of Biostatistics &amp; Health Data Science</strong> are managed centrally through the department, not by individual faculty. If you are interested in the methodological or applied work described on the <a href="#">Research</a> page, the right next step is to <a href="https://www.publichealth.pitt.edu/biostatistics-health-data-science">apply to the department directly</a> — applications are reviewed in the fall.
+      </p>
+      <p>
+        PhD students are funded through department-level RA and TA positions, so dissertation supervision is not contingent on a particular faculty member's grant funding. Once admitted, students can choose to work with any faculty whose research interests align with theirs, and the topic of RA or TA assignments need not overlap with the dissertation.
+      </p>
+      <p>
+        For students already in the program, I am glad to talk about thesis collaborations, directed-study supervision, and rotation projects on topics that connect to the work described on the Research page.
+      </p>
+    </div>
+  </section>
+
+  <!-- Collaborators -->
+  <section class="page-section">
+    <div class="section-meta">Faculty, clinicians, and research staff</div>
+    <h2 class="section-title">Collaborations.</h2>
+    <div class="section-body">
+      <p>
+        Happy to chat about any biomedical data analysis question from a statistics or AI perspective.
+      </p>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section class="page-section">
+    <div class="section-meta">Contact</div>
+    <h2 class="section-title">Getting in touch.</h2>
+    <div class="section-body">
+      <p>
+        The most reliable way to reach me is by email.
+      </p>
+
+      <div class="contact-grid">
+        <div class="contact-card">
+          <div class="label">Pitt (primary)</div>
+          <div class="value"><a href="mailto:soumik@pitt.edu">soumik@pitt.edu</a></div>
+          <div class="note">For methodological work, teaching, and Pitt-affiliated collaborations.</div>
+        </div>
+        <div class="contact-card">
+          <div class="label">VA Pittsburgh / CHERP</div>
+          <div class="value"><a href="mailto:soumik.purkayastha@va.gov">soumik.purkayastha@va.gov</a></div>
+          <div class="note">For Veteran-focused HSR and medical device safety work.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+```

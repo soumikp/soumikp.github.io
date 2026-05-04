@@ -1,0 +1,294 @@
+---
+title: ""
+pagetitle: "Research — Soumik Purkayastha"
+---
+
+```{=html}
+<!-- Page header -->
+  <header class="page">
+    <div class="eyebrow">Research</div>
+    <h1 class="page-title">Statistical and AI methods for biomedical research.</h1>
+    <p class="page-intro">
+      My research develops statistical and AI methods for biomedical data that are observational rather than experimental, often ordinal or mixed-typed, frequently distributed across institutions, and drawn from complex surveys or unstructured clinical text. The program organizes around three thrusts that share methodological foundations but address distinct substantive questions in biostatistics, artificial intelligence, and health services research.
+    </p>
+  </header>
+
+  <!-- Thrust I -->
+  <section class="thrust">
+    <div class="thrust-header">
+      <div class="thrust-numeral">i</div>
+      <h2 class="thrust-title">Causal discovery and association in complex data</h2>
+    </div>
+
+    <div class="thrust-body">
+      <div class="col-spacer"></div>
+      <div class="thrust-prose">
+        <p>
+          Most biomedical data violate the standard assumptions of classical causal inference and structure learning. Variables are mixed-typed; samples come from complex surveys with informative weights; outcomes arrive as ordinal Likert ratings; observations are distributed across institutions for privacy reasons. My methodological work targets this gap — extending information-theoretic, generative, and graphical methods to operate under realistic data conditions without sacrificing interpretability or inferential validity.
+        </p>
+        <p>
+          Three threads run through the work. The first develops <strong>information-theoretic measures of asymmetric association</strong> — copula-based mutual information for high-dimensional screening, and generative exposure mapping models that recover causal direction from observational data via cross-fitting inference. The second extends <strong>ordinal Bayesian network learning</strong> to handle survey weights and observed covariates jointly, enabling causal-graph estimation from large national health surveys. The third develops <strong>federated estimators for generalized estimating equations</strong>, allowing population-level inference from distributed multicenter cohorts without pooling individual-level data.
+        </p>
+        <p>
+          These methods find application across substantive domains: epigenetic regulation networks, directional structure of self-reported mental-health symptoms, multicenter pharmacoepidemiology cohorts, and Veteran social-determinants surveys. Each application clarifies which assumptions can be relaxed and which methodological problems remain open — and the applied collaborations in turn surface new methodological questions that drive the next paper.
+        </p>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Collaborators</div>
+          <p class="collaborators">
+            Methodological work is conducted with <span class="name">Peter X.-K. Song</span> (University of Michigan) and <span class="name">Ayanendranath Basu</span> (Indian Statistical Institute, Kolkata). Survey-weighted Bayesian network applications are co-developed with <span class="name">David Frank</span>, <span class="name">Lauren Russell</span>, and <span class="name">Leslie Hausmann, PhD</span> at VA Pittsburgh.
+          </p>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Funding</div>
+          <div class="funding-group">
+            <div class="funding-status">Awarded / Active</div>
+            <p class="funding">
+              <span class="src">VA Office of Health Equity</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress<br>
+              <span class="src">VA Pittsburgh CHERP, Pilot Program</span> — Co-Investigator, CHARACTERIZING GAPS IN THE QUALITY AND EQUITY OF HOSPITAL PRESCRIBING (PIs: Anderson and Essien), in progress<br>
+              <span class="src">Rackham Graduate School, University of Michigan</span> — Predoctoral Fellowship, 2023–24
+            </p>
+          </div>
+          <div class="funding-group">
+            <div class="funding-status">Under review</div>
+            <p class="funding">
+              <span class="src">National Institutes of Health</span> — Principal Investigator, RESOLVING THE DIRECTIONALITY OF DEPRESSION AND INFLAMMATION IN LONGITUDINAL SURVEY DATA, submitted 01.2026<br>
+              <span class="src">University of Pittsburgh</span> — Principal Investigator, RESOLVING THE DIRECTIONALITY OF DEPRESSION AND INFLAMMATION IN LONGITUDINAL SURVEY DATA (companion internal seed proposal), submitted 01.2026
+            </p>
+          </div>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Selected work</div>
+          <div class="selected">
+
+            <div class="selected-item">
+              <div class="year">2026</div>
+              <div>
+                <div class="title"><a href="#">Quantification and cross-fitting inference of asymmetric relations under generative exposure mapping models</a></div>
+                <div class="venue">Statistica Sinica</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2026</div>
+              <div>
+                <div class="title"><a href="#">On Minimum Bregman Divergence Inference</a></div>
+                <div class="venue">Mathematics</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2025</div>
+              <div>
+                <div class="title"><a href="#">A Framework for Covariate-Adjusted Bivariate Causal Discovery</a></div>
+                <div class="venue">Preprint, arXiv:2502.10317</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2024</div>
+              <div>
+                <div class="title"><a href="#">fastMI: A fast and consistent copula-based nonparametric estimator of mutual information</a></div>
+                <div class="venue">Journal of Multivariate Analysis</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">in submission</div>
+              <div>
+                <div class="title"><a href="#">Survey-Weighted Ordinal Causal Discovery: Application to Veteran Social Needs, Mental Health, and Well-Being</a></div>
+                <div class="venue">Manuscript</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">in submission</div>
+              <div>
+                <div class="title"><a href="#">Fed-GEE: Federated generalized estimating equations for privacy-preserving population-level inference</a></div>
+                <div class="venue">Manuscript</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Software</div>
+          <div class="pkg-list">
+            <div class="pkg-line"><a href="#" class="pkg-name">fastMI</a><span class="pkg-tag">R</span></div>
+            <div class="pkg-line"><a href="#" class="pkg-name">causalGEM</a><span class="pkg-tag">R</span></div>
+            <div class="pkg-line"><a href="#" class="pkg-name">comet</a><span class="pkg-tag">R</span></div>
+            <div class="pkg-line"><a href="#" class="pkg-name">swaoBN</a><span class="pkg-tag">R · dev</span></div>
+            <div class="pkg-line"><a href="#" class="pkg-name">FedGEE</a><span class="pkg-tag">R · dev</span></div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Thrust II -->
+  <section class="thrust">
+    <div class="thrust-header">
+      <div class="thrust-numeral">ii</div>
+      <h2 class="thrust-title">AI models for medical device safety</h2>
+    </div>
+
+    <div class="thrust-body">
+      <div class="col-spacer"></div>
+      <div class="thrust-prose">
+        <p>
+          The U.S. Food and Drug Administration's MAUDE database receives hundreds of thousands of medical-device adverse-event narratives each year, written in clinical and patient prose. The narratives carry safety signal — root causes, clinical consequences, contextual cues about who was using the device and how — but the sheer volume makes manual review infeasible. Surveillance at scale requires automated extraction; doing it well requires methods that are auditable, transparent, and grounded in domain expertise.
+        </p>
+        <p>
+          With colleagues at VA Pittsburgh, I co-develop <strong>AI models for adverse-event surveillance</strong>. Current systems combine rule-based multi-label classifiers for high-precision, auditable extraction of known risks with <strong>deep-learning and unsupervised methods</strong> for detecting emerging patterns that fall outside existing coding templates. All work is conducted within the VA Trustworthy AI Framework, with human-in-the-loop validation at every stage.
+        </p>
+        <p>
+          The current substantive focus is insulin pumps and continuous glucose monitors — the second-largest source of medical-device-related injuries reported to the FDA. Active extensions integrate extracted risk signal into provider-facing registries and Veteran-facing safety education materials, and broaden the pipeline to handle the unique reporting conventions of internal VA patient-safety systems.
+        </p>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Collaborators</div>
+          <p class="collaborators">
+            In collaboration with <span class="name">Jamie Estock</span> (Human Factors) and <span class="name">Dr. Ronald Codario</span> (Endocrinology) at VA Pittsburgh, with input from the VA National Center for Patient Safety.
+          </p>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Funding</div>
+          <div class="funding-group">
+            <div class="funding-status">Awarded</div>
+            <p class="funding">
+              <span class="src">Breakthrough T1D</span> — Co-Investigator, AI-ASSISTED DEVICE RISK IDENTIFICATION SYSTEM TO PERFORM RAPID AND ONGOING IDENTIFICATION OF INSULIN PUMP RISKS (PI: Codario), 2026–27
+            </p>
+          </div>
+          <div class="funding-group">
+            <div class="funding-status">Under review</div>
+            <p class="funding">
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, SAFETY ARCHITECTURE FOR VETERAN-USE ELECTRONIC MEDICAL DEVICES (PIs: Estock and Codario), submitted 12.2025
+            </p>
+          </div>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Selected work</div>
+          <div class="selected">
+            <div class="selected-item">
+              <div class="year">in prep</div>
+              <div>
+                <div class="title">Rule-based natural language processing for surveillance of insulin pump adverse events</div>
+                <div class="venue">Manuscript in preparation</div>
+              </div>
+            </div>
+            <div class="selected-item">
+              <div class="year">in prep</div>
+              <div>
+                <div class="title">Hybrid AI-augmented pipelines for emerging-risk detection in medical device adverse-event narratives</div>
+                <div class="venue">Manuscript in preparation</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Thrust III -->
+  <section class="thrust">
+    <div class="thrust-header">
+      <div class="thrust-numeral">iii</div>
+      <h2 class="thrust-title">Veteran health services research</h2>
+    </div>
+
+    <div class="thrust-body">
+      <div class="col-spacer"></div>
+      <div class="thrust-prose">
+        <p>
+          At VA Pittsburgh's Center for Healthcare Evaluation, Research, and Promotion (CHERP), I serve as the lead statistician on a portfolio of health services research projects examining how Veterans receive — or fail to receive — evidence-based care. My role spans study design, causal inference, survey methodology, and pharmacoepidemiologic analysis. Several of these collaborations also surface methodological problems that motivate the work in Thrust I.
+        </p>
+        <p>
+          Active projects fall into five substantive areas. <strong>Medication initiation and persistence</strong> work, with Drs. Tim Anderson and Utibe Essien, examines hospital-discharge prescribing for alcohol use disorder, guideline-directed therapy for heart failure with reduced ejection fraction, and SGLT2 inhibitor adherence. <strong>Social determinants and equity</strong> work, with Dr. Leslie Hausmann, focuses on health-related social needs among LGB+ Veterans and racial, ethnic, and sex-based concordance in social-risk reporting. <strong>Cancer prevention</strong> work, with Dr. José Zevallos, models the projected burden of HPV-positive oropharyngeal cancer in the Veteran population under alternative vaccination strategies. <strong>Pharmacogenomic implementation</strong> work, with Dr. Christine Kistler, examines whether VA's national pharmacogenomic program reduces adverse drug events among older Veterans in nursing-home care. <strong>Sarcoidosis and military exposures</strong> work, with Dr. Mohamed Seedahmed, identifies disease phenotypes among Veterans with documented exposure histories and pairs prognostic-tool development with target-trial emulation of first-line therapies.
+        </p>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Collaborators</div>
+          <p class="collaborators">
+            Health services research is conducted with investigators at CHERP and across VA Pittsburgh — including <span class="name">Drs. Tim Anderson</span>, <span class="name">Utibe Essien</span>, <span class="name">Leslie Hausmann</span>, <span class="name">José Zevallos</span>, <span class="name">Christine Kistler</span>, and <span class="name">Mohamed Seedahmed</span> — and with <span class="name">Drs. Mario Molinari</span> and <span class="name">Vinod Sethi</span> at the UPMC Department of Surgery on deceased-donor transplantation.
+          </p>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Funding</div>
+          <div class="funding-group">
+            <div class="funding-status">Awarded / Active</div>
+            <p class="funding">
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, CENTER FOR HEALTHCARE EVALUATION, RESEARCH, AND PROMOTION (PIs: Suda and Groeneveld), 2024–29<br>
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, CHARACTERIZING THE QUALITY AND EQUITY OF EVIDENCE-BASED PRESCRIBING FOR HOSPITALIZED VETERANS (PIs: Anderson and Essien), 2026–29<br>
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, OPTIMIZING HPV VACCINATION STRATEGIES FOR HEAD AND NECK CANCER PREVENTION IN VETERANS (PI: Zevallos), awarded 12.2025<br>
+              <span class="src">Merck</span> — Co-Investigator, HPV VACCINATION AND THE FUTURE BURDEN OF HPV+ OROPHARYNGEAL CANCER IN THE VETERANS HEALTH ADMINISTRATION (PI: Zevallos), 2025–26<br>
+              <span class="src">VA Office of Health Equity</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress<br>
+              <span class="src">VA Competitive Career Development Fund (VISN 4)</span> — Co-Investigator, HEALTH-RELATED SOCIAL NEEDS AND SUICIDALITY AMONG SEXUAL MINORITY VETERANS (PI: Gordon), 2024–25
+            </p>
+          </div>
+          <div class="funding-group">
+            <div class="funding-status">Under review</div>
+            <p class="funding">
+              <span class="src">National Institutes of Health</span> — Co-Investigator, EVALUATING THE VA NATIONAL PHARMACOGENOMIC PROGRAM TO REDUCE ADVERSE DRUG EVENTS IN OLDER ADULTS IN THE VA NURSING HOME (PI: Kistler), submitted 04.2026
+            </p>
+          </div>
+        </div>
+
+        <div class="sub-block">
+          <div class="sub-block-label">Selected work</div>
+          <div class="selected">
+
+            <div class="selected-item">
+              <div class="year">2026</div>
+              <div>
+                <div class="title"><a href="#">Initiation of Medications for Alcohol Use Disorder among Hospitalized Veterans</a></div>
+                <div class="venue">Annals of Internal Medicine</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2026</div>
+              <div>
+                <div class="title"><a href="#">Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans</a></div>
+                <div class="venue">JAMA Network Open</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2025</div>
+              <div>
+                <div class="title"><a href="#">Health-Related Social Needs Among LGB+ Veterans</a></div>
+                <div class="venue">JAMA Network Open</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">2025</div>
+              <div>
+                <div class="title"><a href="#">Underutilization of guideline-directed medical therapy following hospitalizations for heart failure with reduced ejection fraction among US Veterans</a></div>
+                <div class="venue">Circulation</div>
+              </div>
+            </div>
+
+            <div class="selected-item">
+              <div class="year">preprint</div>
+              <div>
+                <div class="title"><a href="#">Drug Overdose Mortality Decline and Deceased Donor Transplantation in the United States</a></div>
+                <div class="venue">Manuscript under review</div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+```

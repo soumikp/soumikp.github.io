@@ -1,0 +1,47 @@
+---
+title: ""
+pagetitle: "Teaching — Soumik Purkayastha"
+---
+
+```{=html}
+<header class="page">
+    <div class="eyebrow">Teaching</div>
+    <h1 class="page-title">Teaching and mentoring.</h1>
+    <p class="page-intro">
+      I teach in the Department of Biostatistics &amp; Health Data Science at the University of Pittsburgh School of Public Health. My current courses focus on statistical learning and computational methods for health-science trainees at both the graduate and undergraduate levels.
+    </p>
+  </header>
+
+  <!-- Courses -->
+  <section class="page-section">
+    <div class="section-meta">Courses</div>
+    <div class="course-list">
+
+      <article class="course">
+        <div class="course-header">
+          <div class="course-code">BIOST 2155</div>
+          <div class="course-meta-line">Fall 2025 · Fall 2026 · primary instructor</div>
+        </div>
+        <h3 class="course-title">Introductory Statistical Learning for Health Sciences</h3>
+        <p class="course-desc">
+          A graduate course introducing the foundations of supervised and unsupervised statistical learning for second-year MS Biostatistics and early-PhD students. Topics span regularized regression, classification (including support vector machines and generative models), clustering, dimensionality reduction, decision trees, and ensemble methods, with hands-on R implementations on health-science datasets.
+        </p>
+        <div class="course-future">
+          From Fall 2027, this course will be relaunched as <strong>BIOST 2183: Health Data Science — Statistical Learning and Artificial Intelligence</strong>, an expanded 3-credit version that retains the classical statistical-learning core and adds Python, scikit-learn, and PyTorch-based deep-learning modules for biomedical data.
+        </div>
+      </article>
+
+      <article class="course">
+        <div class="course-header">
+          <div class="course-code">PUBHLT 0411</div>
+          <div class="course-meta-line">Fall 2026 · co-instructor</div>
+        </div>
+        <h3 class="course-title">Statistical Packages for Public Health Data Analysis</h3>
+        <p class="course-desc">
+          A Tier 3 course in the BS in Public Health program covering R and Python for data management, basic statistical analysis, graphical display, and reproducible reporting on public-health data. The course emphasizes hands-on practice and reproducibility as core competencies for undergraduate public-health analysts.
+        </p>
+      </article>
+
+    </div>
+  </section>
+```

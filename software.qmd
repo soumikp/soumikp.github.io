@@ -1,0 +1,115 @@
+---
+title: ""
+pagetitle: "Software — Soumik Purkayastha"
+---
+
+```{=html}
+<!-- Page header -->
+  <header class="page">
+    <div class="eyebrow">Software</div>
+    <h1 class="page-title">Open-source R packages for biomedical statistics.</h1>
+    <p class="page-intro">
+      A small portfolio of open-source R packages developed alongside the methodological work described on the <a href="#">Research</a> page. Each package implements a method from a peer-reviewed paper or in-progress manuscript. Issue reports, pull requests, and questions are welcome through GitHub.
+    </p>
+  </header>
+
+  <!-- Current packages -->
+  <section class="page-section">
+    <div class="section-meta">Current packages</div>
+    <div class="pkg-list">
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">fastMI</div>
+          <div class="pkg-tags">R · published</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Fast and consistent copula-based nonparametric estimator of mutual information.</p>
+          <p class="pkg-paper"><em>Purkayastha &amp; Song (2024). <a href="#">Journal of Multivariate Analysis</a>, 201:105270.</em></p>
+          <div class="pkg-links">
+            <a href="#">GitHub</a><span class="sep">·</span><a href="#">Paper</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">causalGEM</div>
+          <div class="pkg-tags">R · published</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Bivariate causal discovery via the generative exposure model.</p>
+          <p class="pkg-paper"><em>Purkayastha &amp; Song (2026). <a href="#">Statistica Sinica</a>, DOI: 10.5705/ss.202025.0236.</em></p>
+          <div class="pkg-links">
+            <a href="#">GitHub</a><span class="sep">·</span><a href="#">Paper</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">swaoBN</div>
+          <div class="pkg-tags">R · in development</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Survey-weighted, covariate-adjusted ordinal Bayesian network learning.</p>
+          <p class="pkg-paper"><em>Purkayastha, Frank, Russell &amp; Hausmann (2026). Manuscript in submission.</em></p>
+          <div class="pkg-links">
+            <a href="#">GitHub</a><span class="sep">·</span><a href="#">Preprint</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">FedGEE</div>
+          <div class="pkg-tags">R · in development</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Federated generalized estimating equations for privacy-preserving population-level inference in multicenter longitudinal data.</p>
+          <p class="pkg-paper"><em>Chang &amp; Purkayastha (2026). Manuscript in submission.</em></p>
+          <div class="pkg-links">
+            <a href="#">GitHub</a><span class="sep">·</span><a href="#">Preprint</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">comet</div>
+          <div class="pkg-tags">R · published</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Collider–mediator testing using information theory.</p>
+          <p class="pkg-paper"><em>Purkayastha &amp; Song (2024).</em></p>
+          <div class="pkg-links">
+            <a href="#">GitHub</a>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- Earlier work -->
+  <section class="page-section">
+    <div class="section-meta">Earlier work</div>
+    <div class="pkg-list">
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
+          <div class="pkg-name">SEIRfansy</div>
+          <div class="pkg-tags">R · CRAN</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Extended SEIR compartmental model with false-negative correction and symptom-based testing for COVID-19 surveillance.</p>
+          <p class="pkg-paper"><em>Bhaduri, Kundu, Purkayastha et al. (2022). <a href="#">Statistics in Medicine</a>, 41(13):2317–2337.</em></p>
+          <div class="pkg-links">
+            <a href="#">CRAN</a><span class="sep">·</span><a href="#">GitHub</a><span class="sep">·</span><a href="#">Paper</a>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+```
