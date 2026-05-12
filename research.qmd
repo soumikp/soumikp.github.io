@@ -36,7 +36,7 @@ pagetitle: "Research — Soumik Purkayastha"
         <div class="sub-block">
           <div class="sub-block-label">Collaborators</div>
           <p class="collaborators">
-            Methodological work is conducted with <a href="https://sph.umich.edu/faculty-profiles/song-peter.html" target="_blank" class="name">Peter X.-K. Song</a> (University of Michigan) and <a href="https://isi.irins.org/profile/13575" target="_blank" class="name">Ayanendranath Basu</a> (Indian Statistical Institute, Kolkata). Survey-weighted Bayesian network applications are co-developed with <a href="https://www.linkedin.com/in/david-frank-212095105/" target="_blank" class="name">David Frank</a>, <a href="https://www.va.gov/HEALTHEQUITY/OHE_Leadership.asp" target="_blank" class="name">Lauren Russell</a>, and <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann, PhD</a> at VA Pittsburgh.
+            Methodological work is conducted with <a href="https://sph.umich.edu/faculty-profiles/song-peter.html" target="_blank" class="name">Peter X.-K. Song</a> (University of Michigan) and <a href="https://isi.irins.org/profile/13575" target="_blank" class="name">Ayanendranath Basu</a> (Indian Statistical Institute, Kolkata). Survey-weighted Bayesian network applications are co-developed with <a href="https://www.linkedin.com/in/david-frank-212095105/" target="_blank" class="name">David Frank</a>, <a href="https://www.va.gov/HEALTHEQUITY/OHE_Leadership.asp" target="_blank" class="name">Lauren Russell</a>, and <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann</a> at VA Pittsburgh.
           </p>
         </div>
 
@@ -91,7 +91,7 @@ pagetitle: "Research — Soumik Purkayastha"
               <div class="year">in submission</div>
               <div>
                 <div class="title"><a href="https://github.com/soumikp/2026_surveyCD/blob/main/inst/submission/02_main.pdf" target="_blank">Survey-Weighted Ordinal Causal Discovery: Application to Veteran Social Needs, Mental Health, and Well-Being</a></div>
-                <div class="venue">Manuscript (<a href="https://github.com/soumikp/2026_surveyCD/blob/main/inst/submission/03_supplement.pdf" target="_blank">supplement</a>)</div>
+                <div class="venue">Manuscript under preparation</div>
               </div>
             </div>
 
@@ -99,7 +99,7 @@ pagetitle: "Research — Soumik Purkayastha"
               <div class="year">in submission</div>
               <div>
                 <div class="title"><a href="https://github.com/soumikp/2026_fedGee/blob/main/inst/submissions/2026_04_wnar/main.pdf" target="_blank">Fed-GEE: Federated generalized estimating equations for privacy-preserving population-level inference</a></div>
-                <div class="venue">Manuscript (<a href="https://github.com/soumikp/2026_fedGee/blob/main/inst/submissions/2026_04_wnar/supplement.pdf" target="_blank">supplement</a>)</div>
+                <div class="venue">Manuscript under preparation</div>
               </div>
             </div>
 
