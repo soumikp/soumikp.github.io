@@ -1,0 +1,941 @@
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+Primary appointment:
+A740 Crabtree Hall, Department of Biostatistics and
+Health Data Science, University of Pittsburgh, 130
+De Soto Street, Pittsburgh, PA 15261.
++1-412-624-0336
+Email: soumik@pitt.edu
+
+Secondary appointment:
+2A118 Bldg. 30, Center for Healthcare Evaluation,
+Research, and Promotion, VA Pittsburgh Healthcare
+System, 4100 Allequippa St, Pittsburgh, PA 15240
++1-412-360-2214
+Email: soumik.purkayastha@va.gov
+
+soumikp.github.io
+1. Academic Interests
+• Causal discovery and inference
+• Spatiotemporal analysis/Infectious disease modeling
+• Health services research
+2. Education and Training
+Year(s)
+2014-17
+2017-19
+2019-21
+2019-24
+
+University, city, state
+St. Xavier’s College (Autonomous),
+Kolkata, WB, INDIA
+Indian Statistical Institute,
+Kolkata, WB, INDIA
+University of Michigan,
+Ann Arbor, MI, USA
+University of Michigan,
+Ann Arbor, MI, USA
+
+Degree, Year Awarded
+
+Field
+
+B.Sc. (Hons.), 2017
+
+Statistics
+
+M.Stat., 2019
+
+Statistics
+
+M.S., 2021
+
+Biostatistics
+
+Ph.D., 2024
+
+Biostatistics
+
+3. Appointments and Positions
+3.a. Academic
+Year(s)
+
+Title
+
+2019-23
+
+Graduate Student Research Assistant
+
+2023-24
+
+Rackham Predoctoral Fellow
+
+2024-
+
+Assistant Professor (tenure stream)
+
+2024-
+
+Research Biostatistician
+
+Department, School, Name and location of
+institution
+Department of Biostatistics, University of Michigan,
+Ann Arbor, MI, USA.
+Rackham Graduate School, University of Michigan,
+Ann Arbor, MI, USA.
+Department of Biostatistics and Health Data
+Science, University of Pittsburgh, Pittsburgh, PA,
+USA.
+Center for Healthcare Evaluation, Research, and
+Promotion, VA Pittsburgh Healthcare System,
+Pittsburgh, PA, USA.
+
+1
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+3.b. Non-Academic
+Years
+
+Title
+
+Name and location of organization
+
+2018
+
+Data Science intern
+
+Walmart Labs, Bengaluru, KA, INDIA
+
+2021
+
+AI/ML intern
+
+Apple Inc., Cupertino, CA, USA
+
+4. Membership in Professional and Scientific Societies
+Years
+Name of Society
+Inclusive
+2021-
+
+International Biometrics Society, Eastern North American Region (ENAR)
+
+2021-
+
+American Statistical Association (ASA)
+
+2021-
+
+Institute of Mathematical Statistics (IMS)
+
+2022-
+
+International Biometrics Society, Western North American Region (WNAR)
+
+2023-
+
+International Indian Statistical Association (IISA)
+
+2024-
+
+International Chinese Statistical Association (ICSA)
+
+2026-
+
+International Statistical Institute (ISI)
+
+5. Honors
+Year of
+Award
+2017-19
+2019
+2019
+2020
+2022-24
+2023
+2023
+2023-24
+
+Title of Award and Awarding Association
+Merit-based scholarship for good academic performance,
+Indian Statistical Institute, Kolkata, WB, INDIA.
+Sabyasachi Roy Memorial Gold Medal,
+Indian Statistical Institute, Kolkata, WB, INDIA.
+Michigan Data Science Challenge Winner,
+Michigan Institute of Data Science, University of Michigan, Ann Arbor, MI, USA.
+Richard G. Cornell Fellowship,
+Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA.
+Rackham Conference Travel Grant (awarded annually),
+Rackham Graduate School, University of Michigan, Ann Arbor, MI, USA.
+Rising Star Award,
+School of Public Health, University of Michigan, Ann Arbor, MI, USA.
+Best Paper Award and Best Presentation (Runner-up) Award,
+Western North American Region of the International Biometrics Society.
+Rackham Predoctoral Fellowship,
+Rackham Graduate School, University of Michigan, Ann Arbor, MI, USA.
+
+6. Professional Activities
+6.a. Teaching
+
+2
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+6.a.i. Courses Taught
+Year(s)
+2025 Fall
+
+Credits,
+Average Enrollment
+
+Course Number, Title
+BIOST 2155: Introductory Statistical
+Learning for Health Sciences
+
+2 credits, 14 students
+
+Role in course
+Primary instructor
+
+6.a.ii. Other Teaching (lectures, tutorials, and continuing education courses)
+Year(s)
+
+Type of Teaching
+
+2024 Fall
+
+Guest lecture
+
+2024 Fall
+
+Guest lecture
+
+2025 Fall
+
+Guest lecture
+
+Title
+Fundamentals of Public Health, BS in Public Health Degree Program,
+School of Public Health, University of Pittsburgh
+BIOST 2145 Health Data Science, MS in Biostatistics Degree Program,
+School of Public Health, University of Pittsburgh
+Fundamentals of Public Health, BS in Public Health Degree Program,
+School of Public Health, University of Pittsburgh
+
+6.a.iii. Major Advisor for Graduate Student Essays, Theses, and Dissertations
+Name of Student
+Zhiyi Yang
+Feier Chang
+Vani Patel
+
+Year of Degree
+
+Type of Document
+
+PhD in Biostatistics
+(202x expected)
+PhD in Biostatistics
+(202x expected)
+MS in Biostatistics (2026
+expected)
+
+Dissertation, name not
+fixed yet
+Dissertation, name not
+fixed yet
+Thesis, name not fixed
+yet
+
+Notes
+Dissertation co-advisor
+Dissertation advisor
+Thesis advisor
+
+6.a.iv. Service on Masters or Doctoral Committees
+Name of Student
+
+Degree Awarded Year
+
+Joseph Armstrong
+
+MS in Biostatistics (2026)
+
+Sanika Kamath
+
+MS in Human Genetics
+(2026)
+
+Xin Li
+
+MS in Biostatistics (2026)
+
+Crystal Zang
+
+PhD in Biostatistics (2026)
+
+Type of Document
+Thesis, Prediction of PM 2.5 Using Geospatial
+Machine Learning Methods
+Thesis, Leveraging Single-Cell Reference Atlases to
+Enhance Predictive Biomarker Discovery for Cancer
+Immunotherapy
+Thesis, Emerging Risk Factors and Temporal Patterns
+in Hospitalized COPD Patients, 2019-2023
+Dissertation, Supervised Dimensionality Reduction
+Methods for Large-Scale EHR and Omics Data in
+Biomedical Studies
+
+6.a.v. Service on Comprehensive or Qualifying Committees
+Student
+Year(s)
+Population
+
+Type of Exam
+
+2024-25
+
+16 M.S. students
+
+MS in Biostatistics Comprehensive Exam committee
+
+2025-26
+
+6 M.S. students
+
+MS in Genome Bioinformatics Comprehensive Exam committee
+
+3
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+2025-26
+
+18 M.S. students
+
+MS in Biostatistics Comprehensive Exam committee
+
+6.a.vi. Mentoring of Early and Mid-Career Faculty
+Dates
+2025-
+
+2026-
+
+Name of Faculty
+
+Position of Faculty Member
+
+Joshua Gordon (Competitive Career
+Development Fund, VA Pittsburgh
+Healthcare System)
+Manisha Bhattacharyya
+(Career Development Award, VA Health
+Services Research)
+
+Affiliate Investigator, Center for Healthcare
+Evaluation, Research, and Promotion, VA Pittsburgh
+Healthcare System
+COIN Investigator, Center for Healthcare Evaluation,
+Research, and Promotion, VA Pittsburgh Healthcare
+System
+
+6.a.vii. Academic Advising
+Name of Student
+
+Degree Awarded Year
+MS in Biostatistics (2027
+expected)
+PhD in Biostatistics (202x
+expected)
+
+Alexandra Tirendi
+Feier Chang
+
+Position
+Academic Advisor
+Academic Advisor
+
+6.a.viii. Supervision and Mentoring of Student/Graduate Student Researchers (GSR)
+Name of Student
+Jipeng Zhang
+Xizhi Qu
+
+Degree Awarded Year
+PhD in Biostatistics (2027
+expected)
+PhD in Rehabilitation
+Science (2029 expected)
+
+Position
+PhD GSR
+PhD GSR
+
+6.a.ix. Other Supervision and Mentoring
+Dates
+2024-
+
+Name
+David Frank
+
+Position
+Health Science Specialist, Center for Healthcare
+Evaluation, Research, and Promotion, VA Pittsburgh
+Healthcare System
+
+6.b. Research and Training
+6.b.i. Grants and Contracts Received
+Completed: Co-Investigator/Statistician
+Year(s)
+2024-25
+
+Grant and/or Contract Number and Title
+Health-related Social Needs and Suicidality Among
+Sexual Minority Veterans. P.I. J. Gordon
+
+Source
+
+Award
+Amount
+
+%Effort
+
+VA CCDF
+
+$47,217
+
+15%
+effort
+
+Current: Co-Investigator/Statistician
+
+4
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+Year(s)
+2025-26
+
+2026-29
+
+2024-29
+
+2026-27
+
+Grant and/or Contract Number and Title
+
+Award
+Amount
+
+%Effort
+
+$334,094
+
+15%
+effort
+
+$800,000
+
+10%
+effort
+
+$5,305,000
+
+25%
+effort
+
+$189,000
+
+10%
+effort
+
+Source
+
+HPV Vaccination and the Future Burden of HPV+
+Oropharyngeal Cancer in the Veterans
+Health Administration. P.I.: J. Zevallos
+Characterizing the Quality and Equity of Evidencebased Prescribing for Hospitalized Veterans. P.I.: T.
+Anderson and U. Essien
+Developing User-Centered Reporting Strategies to
+Promote Health Equity in the Veterans Health
+Administration. P.I.: L. R. M. Hausmann
+AI-assisted Device Risk Identification System (AIDRIS)
+to perform rapid and ongoing identification of insulin
+pump risks, P.I.: R. Codario and J. Estock
+
+Merck
+VA Health
+Systems
+Research
+VA Health
+Systems
+Research
+Breakthrough
+T1D
+
+6.b.ii. Grants and Contracts Pending
+Year(s)
+
+Grant and/or Contract Number and Title
+
+Optimizing HPV Vaccination Strategies for
+12.2025
+Head and Neck Cancer Prevention in Veterans
+(Awarded)
+P.I.: J. Zevallos
+Understanding How Military Exposures
+Influence Sarcoidosis Patterns, Prognosis,
+12.2025
+and Treatment Response to Improve
+(Awarded)
+Outcomes for Veterans
+P.I. M. Seedahmed
+Safety Architecture for Veteran-use Electronic
+12.2025
+Medical Devices (SAVEMD)
+P.I.s: J. Estock and R. Codario
+Resolving the Directionality of Depression and
+01.2026
+Inflammation in Longitudinal Survey Data
+P.I. S. Purkayastha
+Resolving the Directionality of Depression and
+01.2026
+Inflammation in Longitudinal Survey Data
+P.I. S. Purkayastha
+Evaluating the VA National Pharmacogenomic
+Program to Reduce Adverse Drug Events in
+04.2026
+Older Adults in the VA Nursing Home
+P.I. C. Kistler
+
+Source
+
+Award
+Amount
+
+%Effort
+
+Role
+
+VA Health
+Systems
+Research
+
+$350,000
+
+10%
+effort
+
+Co-I
+
+VA Health
+Systems
+Research
+
+$1,890,000
+
+15%
+
+Co-I
+
+$350,000
+
+15%
+
+Co-I
+
+$275,000
+
+15%
+
+PI
+
+$50,000
+
+10%
+
+PI
+
+$275,000
+
+15%
+
+Co-I
+
+VA Health
+Systems
+Research
+National
+Institutes of
+Health
+University
+of
+Pittsburgh
+National
+Institutes of
+Health
+
+6.c. Invited Presentations Related to Research
+Date
+Jun 2025
+
+Title of Presentation
+Examining Directional Association between
+Depression and Anxiety
+
+Venue
+International Indian Statistical Association
+Conference, Lincoln, USA
+
+5
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+Jul 2025
+
+Examining Directional Association between
+Depression and Anxiety
+
+Dec 2025
+
+A Mechanistic Framework for Collider
+Detection in Observational Data
+
+Dec 2025
+
+A Mechanistic Framework for Collider
+Detection in Observational Data
+
+Jun 2026
+Jul 2026
+Aug 2026
+
+Quantification and Inference of Asymmetric
+Relations Under Generative Exposure
+Mappings (upcoming)
+Causal Discovery for Self-Reported Mental
+Health Data (upcoming)
+Causal Discovery for Self-Reported Mental
+Health Data (upcoming)
+
+New Researchers Conference, Institute of
+Mathematical Statistics, Nashville, USA
+Int. Conf. on Computational and Financial
+Econometrics and Computational and
+Methodological Statistics, London, UK
+Jt. Meetings of 2025 Taipei Int. Statistical
+Symposium and 13th ICSA Int. Conference,
+Taipei, TAIWAN
+ISI Regional Statistics Conference, Valetta,
+MALTA
+IBS International Biometric Conference,
+Seoul, SOUTH KOREA
+ASA Joint Statistical Meeting, Boston, USA
+
+6.d. Other Research and Training Activities
+Date
+
+Name
+
+Mar 2026
+
+2026 Program in Quantitative Genomics: AI for
+Medical Data
+
+Venue
+Harvard School of Public Health, Boston,
+USA
+
+6.e. Publications; h-index: 10 (Google scholar) as of May 2026; +: co-first author; *: trainee.
+6.e.i. Refereed Articles – Published or In Press
+1. Ray, D., Salvatore, M., Bhattacharyya, R., Wang, L., Du, J., Mohammed, S., Purkayastha, S., Halder,
+A., Rix, A., Barker, D., Kleinsasser, M., Zhou, Y., Bose, D., Song, P., Banerjee, M., Baladandayuthapani,
+V., Ghosh, P., & Mukherjee, B. (2020). Predictions, Role of Interventions, and Effects of a Historic
+National Lockdown in India’s Response to the COVID-19 Pandemic: Data Science Call to Arms. Harvard
+Data Science Review, (Special Issue 1).
+2. Giri, S., Purkayastha, S., Hazra, S., Chanda, A., Das, I. and Das, S., (2020). Prediction of monthly Hilsa
+(Tenualosa ilisha) catch in the Northern Bay of Bengal using Bayesian structural time series model.
+Regional Studies in Marine Science, 39, p.101456.
+3. Zhou, Y., Wang, L., Zhang, L., Shi, L., Yang, K., He, J., Bangyao, Z., Overton, W., Purkayastha, S., &
+Song, P. (2020). A Spatiotemporal Epidemiological Prediction Model to Inform County-Level COVID-19
+Risk in the United States. Harvard Data Science Review, (Special Issue 1)
+4. Purkayastha, S., Salvatore, M. and Mukherjee, B., (2020). Are women leaders significantly better at
+controlling the contagion during the COVID-19 pandemic? Journal of Health and Social Sciences, 5(2),
+p.231.
+5. Tang, L., Zhou, Y., Wang, L., Purkayastha, S., Zhang, L., He, J., Wang, F. and Song, P.X.K., (2020). A
+review of multi-compartment infectious disease models. International Statistical Review, 88(2), pp.462513.
+6. Purkayastha, S. and Song, P., (2021). Discussion on “The timing and effectiveness of implementing mild
+interventions of COVID-19 in large industrial regions via a synthetic control method” by Tian et al.
+Statistics and Its Interface, 14(1), pp.21-22.
+
+6
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+7. Salvatore, M., Basu, D., Ray, D., Kleinsasser, M., Purkayastha, S., Bhattacharyya, R. and Mukherjee,
+B., (2020). Comprehensive public health evaluation of lockdown as a non-pharmaceutical intervention on
+COVID-19 spread in India: national trends masking state-level variations. BMJ open, 10(12), p.e041778.
+8. Purkayastha, S., Bhattacharyya, R., Bhaduri, R., Kundu, R., Gu, X., Salvatore, M., Ray, D., Mishra, S.
+and Mukherjee, B., 2021. A comparison of five epidemiological models for transmission of SARS-CoV-2
+in India. BMC Infectious Diseases, 21, pp.1-23.
+9. Purkayastha, S., Kundu, R., Bhaduri, R., Barker, D., Kleinsasser, M., Ray, D. and Mukherjee, B., (2021).
+Estimating the wave 1 and wave 2 infection fatality rates from SARS-CoV-2 in India. BMC Research
+Notes, 14, pp.1-7.
+10. Zimmermann, L., Bhattacharya, S., Purkayastha, S., Kundu, R., Bhaduri, R., Ghosh, P. and Mukherjee,
+B., (2021). SARS-CoV-2 infection fatality rates in India: systematic review, meta-analysis and modelbased estimation. Studies in Microeconomics, 9(2), pp.137-179.
+11. Bhaduri, R.+, Kundu, R.+, Purkayastha, S., Kleinsasser, M., Beesley, L.J., Mukherjee, B. and Datta, J.,
+(2022). Extending the susceptible-exposed-infected-removed (SEIR) model to handle the false negative
+rate and symptom-based administration of COVID-19 diagnostic tests: SEIR-fansy. Statistics in Medicine,
+41(13), pp.2317-2337.
+12. Salvatore, M.+, Purkayastha, S.+, Ganapathi, L., Bhattacharyya, R., Kundu, R., Zimmermann, L., Ray,
+D., Hazra, A., Kleinsasser, M., Solomon, S. and Subbaraman, R., (2022). Lessons from SARS-CoV-2 in
+India: A data-driven framework for pandemic resilience. Science Advances, 8(24), p.eabp8621.
+13. Purkayastha, S. and Song, P.X.K., (2024). fastMI: A fast and consistent copula-based nonparametric
+estimator of mutual information. Journal of Multivariate Analysis, 201, p.105270.
+14. Zhang, L., Purkayastha, S., Kirsner, R., Spino, C. and Song, P. X. K., (2025) Determinants of Enrolment
+in 284 Clinical Trials for Healing Diabetic Foot Ulcers: A Systematic Review. BMJ Open, 15(7), e095512.
+15. Lamba, S., Frank, D., McCoy, J.L., Russell, L.E., Purkayastha. S., Gordon, J.H., Leder, S.M., Procario,
+G.T., Moy, E.M., Hausmann, L.R.M., (2025), Health-Related Social Needs Among LGB+ Veterans. JAMA
+Network Open, 8(10), e2539986
+16. Bessette, L., Essien, U., Parr, A., Mor, M., Purkayastha, S., Gellad, W., Hausmann, L., Fine, M. and
+Anderson, T., (2025). Underutilization of guideline-directed medical therapy following hospitalizations for
+heart failure with reduced ejection fraction among US Veterans, 2022 to 2023. Circulation, 152(3),
+A4359558.
+17. Purkayastha, S. and Song, P. X. K., (2026), Quantification and cross-fitting inference of asymmetric
+relations under generative exposure mapping models. Statistica Sinica, DOI: 10.5705/SS.202025.0236.
+18. Russell, L. E.+, Frank, D. A.+, Purkayastha, S., McCoy, J. L., Leder, S. M., Gordon, J. H., Lamba, S.,
+Procario, G. T., Moy, E. M., Hausmann, L. R. M. (2026), Racial, Ethnic, and Sex Differences in Social
+Risks and Social Needs Concordance Among Veterans. JAMA Network Open, 9(2), e2559892.
+19. Sethi, V., Purkyastha, S., Liu, H., Spitz, F., Hariharan, S., Puttarajappa, C., & Molinari, M. (2026). Drug
+Overdose Mortality Decline and Kidney Transplantation in the United States. American Journal of
+Transplantation, 26(1), S94-S95.
+20. Purkayastha, S., Basu, A. (2026) On Minimum Bregman Divergence Inference. Mathematics, 14(4):670.
+21. Anderson, T. S., Purkayastha, S., Parr, A., Berstein, E. Y., Bachrach, R. L., Mor, M. K., Gellad, W. F.,
+Hausmann, L. R. M., Fine, M. J., Essien, U. R. (2026). Initiation of Medications for Alcohol Use Disorder
+Among Hospitalized Veterans: A Retrospective Cohort Study. Annals of Internal Medicine, DOI:
+10.7326/ANNALS-26-00089.
+6.e.ii. Refereed Articles – Submitted/Preprint
+
+7
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+1. Purkayastha, S. and Song, P. X. K., (2025), A Framework for Covariate-Adjusted Bivariate Causal
+Discovery. ARXIV.2502.10317
+2. Sethi, V., Purkayastha, S., Liu, H., Zhang, X. M., Abdullah, A., Spitz, F., Elias, C., Demirors, B.,
+Puttarajappa, C., Molinari, M. (2025) Drug Overdose Mortality Decline and Deceased Donor
+Transplantation in the United States. PREPRINT UPON REQUEST
+3. Helou, V, Carlson, K. M., Purkayastha, S., Mazul A. L., Contrera, K. J., Zevallos, J. P. (2026) Evolving
+Trends in Definitive Surgical Management of Oropharyngeal Squamous Cell Carcinoma in the United
+States. PREPRINT UPON REQUEST
+4. Purkayastha. S., Frank, D., Russell, L.E., Hausmann, L.R.M. (2026) Survey-Weighted Ordinal Causal
+Discovery: Application to Veteran Social Needs, Mental Health, and Well-Being. [Paper and supplement]
+5. Chang, F.*, and Purkayastha, S. (2026). Fed-GEE: Federated generalized estimating equations for
+privacy-preserving population-level inference for multicenter longitudinal data [Paper and supplement].
+6. Bernstein, E. Y., Bessette, L. G., Purkayastha, S., Parr, A., Mor, M. K., Park, T. W., Hausmann, L. R.
+M., Gellad, W. F., Essien, U. R., & Anderson, T. S. (2026). Post-hospitalization persistence to medications
+for alcohol use disorder. PREPRINT UPON REQUEST
+6.e.iii. Published Abstracts
+1. Lamba, S., Frank, D., McCoy, J.L., Russell, L.E., Purkayastha. S., Gordon, J.H., Leder, S.M., Procario,
+G.T., Moy, E.M., Hausmann, L.R.M., (2025). The Prevalence of Social Needs Among LGB+ Veterans: A
+National Survey of VHA Primary Care Patients. 2025 Academy Health Annual Research Meeting,
+Minneapolis, USA.
+2. Bessette, L. G., Essien, U. R., Parr, A., Mor, M. K., Purkayastha, S., Gellad, W. F., Hausmann, L. R. M.,
+Fine, M., Anderson, T. S., (2025). Underutilization of guideline-directed medical therapy following heart
+failure hospitalizations among U.S. Veterans, 2022 to 2023. 2025 American Heart Association Scientific
+Sessions, New Orleans, USA.
+3. Hausmann, L. R. M., Russell, L. E., Frank, D. A., Purkayastha, S., McCoy, J. L., Leder, S. M., Gordon,
+J. H., Procario, G. T., Lamba, S., Moy, E. M., (2025) Racial, Ethnic, and Sex Differences in Agreement
+between Self-reported Social Risks and Need for Support. Society of Behavioral Medicine 47th Annual
+Meeting & Scientific Sessions, Chicago, USA.
+4. Sethi, V., Purkayastha, S., Liu, H., Zhang, X. M., Abdullah, A., Spitz, F., Elias, C., Demirors, B.,
+Puttarajappa, C., Molinari, M., (2025) Impact of Drug Overdose Mortality Decline on Kidney
+Transplantation in the US. 21st Annual Academic Surgical Congress, Orlando, USA.
+5. Sethi, V., Purkayastha, S., Liu, H., Spitz, F., Hariharan, S., Puttarajappa, C., Molinari, M., (2025) Drug
+Overdose Mortality Decline and Kidney Transplantation in the United States. American Society of
+Transplant Surgeons Winter Symposium, Phoenix, USA.
+6. Ren, J., Parr, A., Purkayastha, S., Mor, M., Brown, K., Tang, J., Hausmann, L., Gellad, W., Essien, U.,
+Anderson, T. (2026). Variation in Guideline-Concordant Inhaler Regimen Intensification Following COPD
+Hospitalizations Across Veterans Affairs Medical Centers. American Thoracic Society International
+Conference, Orlando, USA.
+7. Essien, U.R., Purkayastha, S., Parr, A., Mor, M. K., Tang, J. J., Gellad, W. F., Hausmann, L. R. M.,
+Anderson, T. S., (2026) Hospital-Level Variation in Quality and Equity of Prescribing Medications for
+Alcohol Use Disorder in VA. 2026 Annual Meeting of the Society of General Internal Medicine,
+Washington D.C., USA.
+8. Bessette, L. G., Essien, U. R., Parr, A., Mor, M. K., Purkayastha, S., Gellad, W. F., Hausmann, L. R. M.,
+Anderson, T. S., (2026) Adherence and persistence to SGLT2 inhibitors following hospitalizations for
+
+8
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+heart failure among U.S. Veterans. 2026 Annual Meeting of the Society of General Internal Medicine,
+Washington D.C., USA.
+9. Bernstein, E. Y., Bessette, L. G., Parr, A., Purkayastha, S., Mor, M. K., Gellad, W. F., Hausmann, L. R.
+M., Essien, U. R., Anderson, T. S., (2026) Persistence to medications for alcohol use disorder initiated
+during hospitalization. 2026 Annual Meeting of the Society of General Internal Medicine, Washington
+D.C., USA.
+10. Helou, V., Carlson, K. M., Purkayastha, S., Mazul, A. L., Contrera, K. J., Zevallos, J. P. (2026) Evolving
+Trends in Definitive Surgical Management of Oropharyngeal Squamous Cell Carcinoma: A National
+Cancer Database Analysis. American Head and Neck Society 2026 Annual Meeting, Boston, USA.
+6.e.iv. Presentations
+1. Eastern North American Region (ENAR) of the International Biometric Society Spring Meeting (March
+2023). “An information-theoretic framework for causal discovery in epigenetic data”. Nashville, USA.
+2. Western North American Region (WNAR) of the International Biometric Society Spring Meeting (June
+2023). “Asymmetric predictability in causal discovery: an information theoretic approach”. Anchorage,
+USA.
+3. Joint Statistical Meetings (August 2023). “Asymmetric predictability in causal discovery: an information
+theoretic approach”. Toronto, CANADA.
+4. Eastern North American Region (ENAR) of the International Biometric Society Spring Meeting (March
+2025). “Examining Directional Association between Depression and Anxiety”. New Orleans, USA.
+5. International Indian Statistical Association Conference (June 2025). “Examining Directional Association
+between Depression and Anxiety”. Lincoln, USA.
+6. Joint Statistical Meetings (August 2025). “Examining Directional Association between Depression and
+Anxiety”. Nashville, USA.
+7. 8th International Conference on Econometrics and Statistics: EcoSta (August 2025). “Examining
+Directional Association between Depression and Anxiety”. Tokyo, JAPAN.
+8. 19th International Joint Conference on Computational and Financial Econometrics (CFE) and
+Computational and Methodological Statistics: CMStatistics (December 2025). “A Mechanistic Framework
+for Collider Detection in Observational Data”. London, UK.
+9. Joint Meetings of 2025 Taipei International Statistical Symposium and 13th ICSA International
+Conference (December 2025), “A Mechanistic Framework for Collider Detection in Observational Data”.
+Taipei, TAIWAN.
+10. ISI Regional Statistics Conference (June 2026). “Causal Discovery for Self-Reported Mental Health
+Data”. Valetta, MALTA (upcoming)
+11. IBS International Biometric Conference (July 2026). “Causal Discovery for Self-Reported Mental Health
+Data”. Seoul, SOUTH KOREA (upcoming)
+12. ASA Joint Statistical Meeting (August 2026). “Causal Discovery for Self-Reported Mental Health Data”.
+Boston, USA (upcoming)
+6.e.v. Non-Print Media (Software, electronic)
+1. Bhaduri R.+, Kundu R.+, Purkayastha S., Beesley L., Mukherjee B., Kleinsasser, M. (2021). SEIRfansy:
+Extended Susceptible-Exposed-Infected-Recovery Model [link]
+2. Purkayastha, S. and Song, P.X.K., 2024. fastMI: A fast and consistent copula-based nonparametric
+estimator of mutual information. [link]
+3. Purkayastha, S. and Song, P.X.K., 2024. comet: Collider-mediator testing using information theory [link]
+
+9
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+4. Purkayastha, S. and Song, P.X.K., 2026: causalGEM: Bivariate causal discovery via the Generative
+Exposure Model [link]
+5. Purkayastha. S., Frank, D., Russell, L.E., Hausmann, L.R.M., 2026: swaoBN: Survey-Weighted,
+Covariate-Adjusted Ordinal Bayesian Network Learning [link]
+6. Chang, F.* and Purkayastha, S.: FedGEE: Federated Generalized Estimating Equations for PrivacyPreserving Population-Level Inference for Multicenter Longitudinal Data [link]
+6.e.vi. Technical and Government Reports
+1. Opportunities for Equity-Guided Improvement in GLP-1 Agonist Prescribing in VA, VA Office of Health
+Equity, P.I. Carolyn Thorpe.
+6.e.vii. Other Publications/Press Coverage
+1. Basu, D., Salvatore, M., Kleinsasser, M., Purkayastha, S., Bhattacharya, R., and Mukherjee, B., We’re
+Focusing on National Data on COVID-19 When We Should Be Looking at State- Level Trends. The Wire,
+2020.
+2. Mukherjee, B., Purkayastha, S., Salvatore, M., & Mishra, S. Underreporting does hurt the COVID fight.
+The Hindu, 2021.
+3. Laguipo, A., A study of the COVID fatality rates in India during waves 1 and 2. News-Medical.Net, 2021.
+4. Bastian, H., Women Versus Men Leaders in the Pandemic: An Update and Dig Into the Latest Data.
+PLOS Blogs, 2022
+7. Service
+7.a. Service to School and University
+Year(s)
+
+Activity
+
+2024-25
+
+Graduate Research and Development Seminar
+Organizer
+
+Mar 2025
+
+Research Day Poster Competition Judge
+
+Apr 2025
+
+Dean’s Day Poster Competition Judge
+
+Mar 2026
+
+Research Day Poster Competition Judge
+
+2025-27
+
+Seminar and Research Day organizer
+
+2025-26
+
+Internal Grant Reviewer
+
+2025-26
+
+PhD in Biostatistics Admissions Committee (300+
+applications, five students admitted)
+
+Position
+Department of Biostatistics and Health
+Data Science, University of Pittsburgh
+Department of Biostatistics and Health
+Data Science, University of Pittsburgh
+School of Public Health, University of
+Pittsburgh
+Department of Biostatistics and Health
+Data Science, University of Pittsburgh
+Department of Biostatistics and Health
+Data Science, University of Pittsburgh
+Center for Healthcare Evaluation,
+Research, and Promotion
+Department of Biostatistics and Health
+Data Science, University of Pittsburgh
+
+7.b. Manuscript and other Documentation/Publication Review
+ASA Discoveries, Annals of Applied Statistics, Biometrics, Communications in Statistics (Case Studies and Data
+Analysis), Health Services Research, Journal of the American Statistical Association, Journal of the Royal
+
+10
+Last updated May 6th, 2026.
+
+CURRICULUM VITAE: SOUMIK PURKAYASTHA
+Statistical Society, Series A (Statistics in Society), New England Journal of Statistics in Data Science, PLOS
+One, Scientific Reports, Statistics in Medicine, Statistical Science.
+7.c. Service to Field of Scholarship
+Date(s)
+
+Organization/Agency
+
+Position and/or Type of Service
+
+Dec 2025
+
+American Statistical Association, Health Policy in
+Statistics Section
+
+Student Paper Competition Reviewer
+
+7.d. Leadership in Scholarly and Professional Organizations and Honorary Societies
+Date(s)
+
+Organization/Agency
+
+2026-
+
+American Statistical Association, Health Policy in
+Statistics Section
+
+Position and/or Type of Service
+Secretary
+
+7.e. Governmental Organizations
+Date(s)
+Jan 2025
+
+Organization/Agency
+Congressionally Directed Medical Research
+Program (CDMRP) Discovery Award, US
+Department of Defense
+
+Position and/or Type of Service
+Specialist Biostatistician Grant
+Reviewer
+
+11
+Last updated May 6th, 2026.
+
+
