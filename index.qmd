@@ -36,7 +36,7 @@ pagetitle: "Home — Soumik Purkayastha"
         <div>
           <h3>Graphical models for causality and association in complex biomedical data</h3>
           <p>I develop graphical models for learning causal structure and quantifying directional association under realistic biomedical data conditions — survey weighting, mixed-typed variables, ordinal outcomes, and beyond rigid parametric assumptions. Recent work spans copula-based mutual information, generative exposure models and graphical models for learning network structure, and federated learning.</p>
-          <div class="keywords">copula models · density estimation · federeated learning · graphical models · structure learning</div>
+          <div class="keywords">copula models · density estimation · federated learning · graphical models · structure learning</div>
         </div>
       </div>
 
