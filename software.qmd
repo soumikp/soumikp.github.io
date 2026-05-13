@@ -7,9 +7,9 @@ pagetitle: "Software — Soumik Purkayastha"
 <!-- Page header -->
   <header class="page">
     <div class="eyebrow">Software</div>
-    <h1 class="page-title">Open-source R packages for biomedical statistics.</h1>
+    <h1 class="page-title">Open-source software packages for biomedical statistics.</h1>
     <p class="page-intro">
-      A small portfolio of open-source R packages developed alongside the methodological work described on the <a href="research.html">Research</a> page. Each package implements a method from a peer-reviewed paper or in-progress manuscript. Issue reports, pull requests, and questions are welcome through GitHub.
+      A small portfolio of open-source software packages developed alongside the methodological work described on the <a href="research.html">Research</a> page. Each package implements a method from a peer-reviewed paper or in-progress manuscript. Issue reports, pull requests, and questions are welcome through GitHub.
     </p>
   </header>
 
@@ -35,7 +35,7 @@ pagetitle: "Software — Soumik Purkayastha"
       <article class="pkg-entry">
         <div class="pkg-meta">
           <div class="pkg-name">causalGEM</div>
-          <div class="pkg-tags">R · published</div>
+          <div class="pkg-tags">Python · published</div>
         </div>
         <div class="pkg-content">
           <p class="pkg-tagline">Bivariate causal discovery via the generative exposure model.</p>

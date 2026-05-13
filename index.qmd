@@ -128,7 +128,7 @@ pagetitle: "Home — Soumik Purkayastha"
       <div class="pkg">
         <div class="name"><a href="https://github.com/soumikp/causalGEM" target="_blank" class="name">causalGEM</a></div>
         <div class="desc">Bivariate causal discovery via the generative exposure model.</div>
-        <div class="status">R · Github</div>
+        <div class="status">Python · Github</div>
       </div>
 
       <div class="pkg">

@@ -110,7 +110,7 @@ pagetitle: "Research — Soumik Purkayastha"
           <div class="sub-block-label">Software</div>
           <div class="pkg-list">
             <div class="pkg-line"><a href="https://github.com/soumikp/fastMI" class="pkg-name">fastMI</a><span class="pkg-tag">R</span></div>
-            <div class="pkg-line"><a href="https://github.com/soumikp/causalGEM" class="pkg-name">causalGEM</a><span class="pkg-tag">R</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/causalGEM" class="pkg-name">causalGEM</a><span class="pkg-tag">Python</span></div>
             <div class="pkg-line"><a href="https://github.com/soumikp/comet" class="pkg-name">comet</a><span class="pkg-tag">R</span></div>
           </div>
         </div>

@@ -10,7 +10,7 @@ Personal academic website for Soumik Purkayastha, built with [Quarto](https://qu
 ├── styles.css                     Shared stylesheet
 ├── index.qmd                      Homepage
 ├── research.qmd                   Research program
-├── software.qmd                   Open-source R packages
+├── software.qmd                   Open-source software packages
 ├── teaching.qmd                   Courses and teaching
 ├── working-with-me.qmd            For prospective students and collaborators
 ├── includes/
