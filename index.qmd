@@ -35,8 +35,8 @@ pagetitle: "Home — Soumik Purkayastha"
         <div class="numeral">i</div>
         <div>
           <h3>Graphical models for causality and association in complex biomedical data</h3>
-          <p>I develop graphical models for learning causal structure and quantifying directional association under realistic biomedical data conditions — survey weighting, mixed-typed variables, ordinal outcomes, and beyond rigid parametric assumptions. Recent work spans copula-based mutual information, generative exposure models with cross-fitting inference, and weighted ordinal Bayesian networks.</p>
-          <div class="keywords">structure learning · mutual information · ordinal Bayesian networks · cross-fitting</div>
+          <p>I develop graphical models for learning causal structure and quantifying directional association under realistic biomedical data conditions — survey weighting, mixed-typed variables, ordinal outcomes, and beyond rigid parametric assumptions. Recent work spans copula-based mutual information, generative exposure models and graphical models for learning network structure, and federated learning.</p>
+          <div class="keywords">structure learning · graphical models · federeated learning</div>
         </div>
       </div>
 
