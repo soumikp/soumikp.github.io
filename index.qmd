@@ -99,8 +99,24 @@ pagetitle: "Home — Soumik Purkayastha"
       <article class="paper">
         <div class="year">2026</div>
         <div>
+          <div class="title"><a href="https://www.amjtransplant.org/article/S1600-6135(25)03375-1/fulltext" target="_blank">Drug Overdose Mortality Decline and Deceased Donor Transplantation in the United States</a></div>
+          <div class="venue">American Journal of Transplantation</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2026</div>
+        <div>
           <div class="title"><a href="https://doi.org/10.3390/math14040670" target="_blank">On Minimum Bregman Divergence Inference</a></div>
           <div class="venue">Mathematics</div>
+        </div>
+      </article>
+
+      <article class="paper">
+        <div class="year">2025</div>
+        <div>
+          <div class="title"><a href="https://doi.org/10.1001/jamahealthforum.2025.0992" target="_blank">Racial, ethnic, and sex differences in need and receipt of support for social needs among veterans</a></div>
+          <div class="venue">JAMA Health Forum</div>
         </div>
       </article>
 
