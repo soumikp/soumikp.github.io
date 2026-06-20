@@ -71,6 +71,14 @@ pagetitle: "Home — Soumik Purkayastha"
   <section>
     <div class="section-label">Recent work</div>
     <div class="papers">
+    
+    <article class="paper">
+        <div class="year">2026</div>
+        <div>
+          <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1600613526009810" target="_blank">Drug Overdose Mortality Decline and Deceased Donor Transplantation in the United States</a></div>
+          <div class="venue">American Journal of Transplantation</div>
+        </div>
+      </article>
 
       <article class="paper">
         <div class="year">2026</div>
@@ -93,14 +101,6 @@ pagetitle: "Home — Soumik Purkayastha"
         <div>
           <div class="title"><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845145" target="_blank">Racial, Ethnic, and Sex Differences in Social Risks and Social Needs Concordance Among Veterans</a></div>
           <div class="venue">JAMA Network Open</div>
-        </div>
-      </article>
-
-      <article class="paper">
-        <div class="year">2026</div>
-        <div>
-          <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1600613526009810" target="_blank">Drug Overdose Mortality Decline and Deceased Donor Transplantation in the United States</a></div>
-          <div class="venue">American Journal of Transplantation</div>
         </div>
       </article>
 
@@ -157,6 +157,17 @@ pagetitle: "Home — Soumik Purkayastha"
     <div class="news">
 
       <div class="news-item">
+        <div class="when">June 2026</div>
+        <div class="what">Trainee <a href="https://www.linkedin.com/in/feier-chang/" target="_blank">Feier Chang</a> won the 2026 WNAR Most Outstanding Student Presentation Award.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">May 2026</div>
+        <div class="what">Work on drug overdose mortality decline in the United States accepted at
+ <a href="https://www.sciencedirect.com/science/article/pii/S1600613526009810" target="_blank">American Journal of Transplantation</a>.</div>
+      </div>
+
+      <div class="news-item">
         <div class="when">Apr 2026</div>
         <div class="what">Work on medications for alcohol use disorder among hospitalized Veterans accepted at <a href="https://doi.org/10.7326/ANNALS-26-00089" target="_blank">Annals of Internal Medicine</a>.</div>
       </div>
@@ -169,11 +180,6 @@ pagetitle: "Home — Soumik Purkayastha"
       <div class="news-item">
         <div class="when">Jan 2026</div>
         <div class="what">Paper on quantification and cross-fitting inference under generative exposure mapping models accepted at <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0236_na.pdf" target="_blank">Statistica Sinica</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Dec 2025</div>
-        <div class="what">Work on racial, ethnic, and sex differences in social-needs concordance among Veterans accepted at <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845145" target="_blank">JAMA Network Open</a>.</div>
       </div>
 
     </div>
