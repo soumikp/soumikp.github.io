@@ -48,6 +48,20 @@ pagetitle: "Software — Soumik Purkayastha"
 
       <article class="pkg-entry">
         <div class="pkg-meta">
+          <div class="pkg-name">causalCovGEM</div>
+          <div class="pkg-tags">R · under revision</div>
+        </div>
+        <div class="pkg-content">
+          <p class="pkg-tagline">Covariate-adjusted bivariate causal discovery via the generative exposure model.</p>
+          <p class="pkg-paper"><em>Purkayastha &amp; Song (2026). Statistica Sinica, under revision.</em></p>
+          <div class="pkg-links">
+            <a href="https://github.com/soumikp/causalCovGEM" target="_blank">GitHub</a>
+          </div>
+        </div>
+      </article>
+
+      <article class="pkg-entry">
+        <div class="pkg-meta">
           <div class="pkg-name">swaoBN</div>
           <div class="pkg-tags">R · in development</div>
         </div>
@@ -70,20 +84,6 @@ pagetitle: "Software — Soumik Purkayastha"
           <p class="pkg-paper"><em>Chang &amp; Purkayastha (2026). Manuscript in submission.</em></p>
           <div class="pkg-links">
             <a href="https://github.com/soumikp/2026_fedgee" target="_blank">GitHub</a>
-          </div>
-        </div>
-      </article>
-
-      <article class="pkg-entry">
-        <div class="pkg-meta">
-          <div class="pkg-name">comet</div>
-          <div class="pkg-tags">R · published</div>
-        </div>
-        <div class="pkg-content">
-          <p class="pkg-tagline">Collider–mediator testing using information theory.</p>
-          <p class="pkg-paper"><em>Purkayastha &amp; Song (2024).</em></p>
-          <div class="pkg-links">
-            <a href="https://github.com/soumikp/comet" target="_blank">GitHub</a>
           </div>
         </div>
       </article>

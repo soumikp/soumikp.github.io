@@ -22,7 +22,7 @@ pagetitle: "Teaching — Soumik Purkayastha"
           <div class="course-code">BIOST 2155</div>
           <div class="course-meta-line">Fall 2025 · Fall 2026 · primary instructor</div>
         </div>
-        <h3 class="course-title">Introductory Statistical Learning for Health Sciences</h3>
+        <h3 class="course-title"><a href="https://soumikp.github.io/2026_sl4hds/" target="_blank" rel="noopener noreferrer">Introductory Statistical Learning for Health Sciences</a></h3>
         <p class="course-desc">
           A graduate course introducing the foundations of supervised and unsupervised statistical learning for second-year MS Biostatistics and early-PhD students. Topics span regularized regression, classification (including support vector machines and generative models), clustering, dimensionality reduction, decision trees, and ensemble methods, with hands-on R implementations on health-science datasets.
         </p>
@@ -36,9 +36,20 @@ pagetitle: "Teaching — Soumik Purkayastha"
           <div class="course-code">PUBHLT 0411</div>
           <div class="course-meta-line">Fall 2026 · co-instructor</div>
         </div>
-        <h3 class="course-title">Statistical Packages for Public Health Data Analysis</h3>
+        <h3 class="course-title"><a href="https://soumikp.github.io/pubhlt0411-python/" target="_blank" rel="noopener noreferrer">Statistical Packages for Public Health Data Analysis</a></h3>
         <p class="course-desc">
           A Tier 3 course in the BS in Public Health program covering R and Python for data management, basic statistical analysis, graphical display, and reproducible reporting on public-health data. The course emphasizes hands-on practice and reproducibility as core competencies for undergraduate public-health analysts.
+        </p>
+      </article>
+
+      <article class="course">
+        <div class="course-header">
+          <div class="course-code">BIOST 2025</div>
+          <div class="course-meta-line">Spring 2026 · Spring 2027 · primary instructor</div>
+        </div>
+        <h3 class="course-title">Biostatistics Seminar</h3>
+        <p class="course-desc">
+          A 1-credit seminar for graduate students in the department, featuring talks on current research in biostatistics and health data science.
         </p>
       </article>
 

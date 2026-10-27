@@ -9,7 +9,7 @@ pagetitle: "Working with Me — Soumik Purkayastha"
     <div class="eyebrow">Working with Me</div>
     <h1 class="page-title">Notes for students and collaborators.</h1>
     <p class="page-intro">
-      My research sits at the intersection of methodological biostatistics, applied AI, and Veteran-focused health services research. I work with students and collaborators who are curious about real-world health data, comfortable thinking carefully about study design and inference, and willing to learn the computational tools — typically R, Python, or both — that make rigorous methods possible. The notes below describe how to get in touch and what kinds of engagement are currently possible.
+      My research sits at the intersection of methodological biostatistics, applied AI, and health services and clinical research, with a focus on Veteran health. I work with students and collaborators who are curious about real-world health data, comfortable thinking carefully about study design and inference, and willing to learn the computational tools — typically R, Python, or both — that make rigorous methods possible. The notes below describe how to get in touch and what kinds of engagement are currently possible.
     </p>
   </header>
 

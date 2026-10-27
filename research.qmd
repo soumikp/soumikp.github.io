@@ -17,43 +17,42 @@ pagetitle: "Research — Soumik Purkayastha"
   <section class="thrust">
     <div class="thrust-header">
       <div class="thrust-numeral">i</div>
-      <h2 class="thrust-title">Causal discovery and association in complex data</h2>
+      <h2 class="thrust-title">Statistical methods for complex biomedical data</h2>
     </div>
 
     <div class="thrust-body">
       <div class="col-spacer"></div>
       <div class="thrust-prose">
         <p>
-          Most biomedical data violate the standard assumptions of classical causal inference and structure learning. Variables are mixed-typed; samples come from complex surveys with informative weights; outcomes arrive as ordinal Likert ratings; observations are distributed across institutions for privacy reasons. My methodological work targets this gap — extending information-theoretic, generative, and graphical methods to operate under realistic data conditions without sacrificing interpretability or inferential validity.
+          Most biomedical data violate the assumptions of classical causal inference, arriving as mixed-typed variables, weighted survey samples, ordinal ratings, or records split across institutions. I work on the following projects to address these challenges.
         </p>
-        <p>
-          Three threads run through the work. The first develops <strong>information-theoretic measures of asymmetric association</strong> — copula-based mutual information for high-dimensional screening, and generative exposure mapping models that recover causal direction from observational data. The second extends <strong>ordinal Bayesian network learning</strong> to handle survey weights and observed covariates jointly, enabling causal-graph estimation from large national health surveys. The third develops <strong>federated estimators for generalized estimating equations</strong>, allowing population-level inference from distributed multicenter cohorts without pooling individual-level data.
-        </p>
-        <p>
-          These methods find application across substantive domains: epigenetic regulation networks, directional structure of self-reported mental-health symptoms, multicenter pharmacoepidemiology cohorts, and Veteran social-determinants surveys.
-        </p>
+        <ul class="thrust-list">
+          <li><strong>Information-theoretic measures of asymmetric association</strong> that recover causal direction from observational data, with <a href="https://sph.umich.edu/faculty-profiles/song-peter.html" target="_blank" class="name">Peter X.-K. Song</a>.</li>
+          <li><strong>Minimum Bregman divergence inference</strong> for robust estimation, with <a href="https://isi.irins.org/profile/13575" target="_blank" class="name">Ayanendranath Basu</a>.</li>
+          <li><strong>Ordinal Bayesian network learning</strong> that handles survey weights and covariates jointly, with David Frank, <a href="https://www.va.gov/HEALTHEQUITY/OHE_Leadership.asp" target="_blank" class="name">Lauren Russell</a>, and <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann</a>.</li>
+          <li><strong>Federated estimating equations</strong> for inference across multicenter cohorts without pooling individual-level data.</li>
+        </ul>
 
-        <div class="sub-block">
-          <div class="sub-block-label">Collaborators</div>
-          <p class="collaborators">
-            Methodological work is conducted with <a href="https://sph.umich.edu/faculty-profiles/song-peter.html" target="_blank" class="name">Peter X.-K. Song</a> (University of Michigan) and <a href="https://isi.irins.org/profile/13575" target="_blank" class="name">Ayanendranath Basu</a> (Indian Statistical Institute, Kolkata). Survey-weighted Bayesian network applications are co-developed with <a href="https://www.linkedin.com/in/david-frank-212095105/" target="_blank" class="name">David Frank</a>, <a href="https://www.va.gov/HEALTHEQUITY/OHE_Leadership.asp" target="_blank" class="name">Lauren Russell</a>, and <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann</a> at VA Pittsburgh.
-          </p>
-        </div>
 
         <div class="sub-block">
           <div class="sub-block-label">Funding</div>
           <div class="funding-group">
             <div class="funding-status">Awarded / Active</div>
             <p class="funding">
-              <span class="src">VA Office of Health Equity</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress<br>
-              <span class="src">VA Pittsburgh CHERP, Pilot Program</span> — Co-Investigator, CHARACTERIZING GAPS IN THE QUALITY AND EQUITY OF HOSPITAL PRESCRIBING (PIs: Anderson and Essien), in progress<br>
-              <span class="src">Rackham Graduate School, University of Michigan</span> — Predoctoral Fellowship, 2023–24
+              <span class="src">VA Office of Health Outcomes</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress
             </p>
           </div>
           <div class="funding-group">
-            <div class="funding-status">Under review</div>
+            <div class="funding-status">Proposed</div>
             <p class="funding">
-              <span class="src">National Institutes of Health</span> — Principal Investigator, RESOLVING THE DIRECTIONALITY OF DEPRESSION AND INFLAMMATION IN LONGITUDINAL SURVEY DATA, submitted 01.2026
+              <span class="src">National Institutes of Health (R21)</span> — Principal Investigator, RESOLVING THE CAUSAL DIRECTION OF DEPRESSION AND INFLAMMATION: A SURVEY-WEIGHTED STRUCTURE LEARNING APPROACH, 2027–28
+            </p>
+          </div>
+          <div class="funding-group">
+            <div class="funding-status">Completed</div>
+            <p class="funding">
+              <span class="src">VA Pittsburgh CHERP, Pilot Program</span> — Co-Investigator, CHARACTERIZING GAPS IN THE QUALITY AND EQUITY OF HOSPITAL PRESCRIBING (PIs: Anderson and Essien)<br>
+              <span class="src">Rackham Graduate School, University of Michigan</span> — Predoctoral Fellowship, 2023–24
             </p>
           </div>
         </div>
@@ -116,9 +115,11 @@ pagetitle: "Research — Soumik Purkayastha"
         <div class="sub-block">
           <div class="sub-block-label">Software</div>
           <div class="pkg-list">
-            <div class="pkg-line"><a href="https://github.com/soumikp/fastMI" class="pkg-name">fastMI</a><span class="pkg-tag">R</span></div>
-            <div class="pkg-line"><a href="https://github.com/soumikp/causalGEM" class="pkg-name">causalGEM</a><span class="pkg-tag">Python</span></div>
-            <div class="pkg-line"><a href="https://github.com/soumikp/comet" class="pkg-name">comet</a><span class="pkg-tag">R</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/fastMI" class="pkg-name">fastMI</a><span class="pkg-tag">R</span><span class="pkg-desc">Fast and consistent copula-based nonparametric estimator of mutual information.</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/causalGEM" class="pkg-name">causalGEM</a><span class="pkg-tag">Python</span><span class="pkg-desc">Bivariate causal discovery via the generative exposure model.</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/causalCovGEM" class="pkg-name">causalCovGEM</a><span class="pkg-tag">R</span><span class="pkg-desc">Covariate-adjusted bivariate causal discovery via the generative exposure model.</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/2026_surveyCD" class="pkg-name">swaoBN</a><span class="pkg-tag">R · dev</span><span class="pkg-desc">Survey-weighted, covariate-adjusted ordinal Bayesian network learning.</span></div>
+            <div class="pkg-line"><a href="https://github.com/soumikp/2026_fedGee" class="pkg-name">FedGEE</a><span class="pkg-tag">R · dev</span><span class="pkg-desc">Federated generalized estimating equations for multicenter longitudinal data.</span></div>
           </div>
         </div>
 
@@ -137,21 +138,12 @@ pagetitle: "Research — Soumik Purkayastha"
       <div class="col-spacer"></div>
       <div class="thrust-prose">
         <p>
-          The U.S. Food and Drug Administration's MAUDE database receives hundreds of thousands of medical-device adverse-event narratives each year, written in clinical and patient prose. The narratives carry safety signal — root causes, clinical consequences, contextual cues about who was using the device and how — but the sheer volume makes manual review infeasible. Surveillance at scale requires automated extraction; doing it well requires methods that are auditable, transparent, and grounded in domain expertise.
+          With colleagues at VA Pittsburgh, I co-develop AI models for adverse-event surveillance. Our current focus is insulin pumps and continuous glucose monitors — the second-largest source of medical-device-related injuries reported to the FDA. Active extensions integrate extracted risk signal into provider-facing registries and Veteran-facing safety education materials. My collaborators include:
         </p>
-        <p>
-          With colleagues at VA Pittsburgh, I co-develop <strong>AI models for adverse-event surveillance</strong>. Current systems combine rule-based multi-label classifiers for high-precision, auditable extraction of known risks with <strong>deep-learning and unsupervised methods</strong> for detecting emerging patterns that fall outside existing coding templates. All work is conducted within the VA Trustworthy AI Framework, with human-in-the-loop validation at every stage.
-        </p>
-        <p>
-          The current substantive focus is insulin pumps and continuous glucose monitors — the second-largest source of medical-device-related injuries reported to the FDA. Active extensions integrate extracted risk signal into provider-facing registries and Veteran-facing safety education materials, and broaden the pipeline to handle the unique reporting conventions of internal VA patient-safety systems.
-        </p>
-
-        <div class="sub-block">
-          <div class="sub-block-label">Collaborators</div>
-          <p class="collaborators">
-            In collaboration with <a href="https://www.cherp.research.va.gov/CHERP/people/jamie-estock.asp" target="_blank" class="name">Jamie Estock</a> (Human Factors) and <a href="https://people.dom.pitt.edu/people/ronald-codario-md" target="_blank" class="name">Ronald Codario</a> (Endocrinology) at VA Pittsburgh, with input from the VA National Center for Patient Safety.
-          </p>
-        </div>
+        <ul class="thrust-list">
+          <li><a href="https://www.cherp.research.va.gov/CHERP/people/jamie-estock.asp" target="_blank" class="name">Jamie Estock</a> (Human Factors)</li>
+          <li><a href="https://people.dom.pitt.edu/people/ronald-codario-md" target="_blank" class="name">Ronald Codario</a> (Endocrinology)</li>
+        </ul>
 
         <div class="sub-block">
           <div class="sub-block-label">Funding</div>
@@ -162,9 +154,9 @@ pagetitle: "Research — Soumik Purkayastha"
             </p>
           </div>
           <div class="funding-group">
-            <div class="funding-status">Under review</div>
+            <div class="funding-status">Proposed</div>
             <p class="funding">
-              <span class="src">VA Health Systems Research</span> — Co-Investigator, SAFETY ARCHITECTURE FOR VETERAN-USE ELECTRONIC MEDICAL DEVICES (PIs: Estock and Codario), submitted 12.2025
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, SAFETY ARCHITECTURE FOR VETERAN-USE ELECTRONIC MEDICAL DEVICES (PIs: Estock and Codario), 2027–28
             </p>
           </div>
         </div>
@@ -173,17 +165,10 @@ pagetitle: "Research — Soumik Purkayastha"
           <div class="sub-block-label">Selected work</div>
           <div class="selected">
             <div class="selected-item">
-              <div class="year">in prep</div>
+              <div class="year">in submission</div>
               <div>
-                <div class="title">Rule-based natural language processing for surveillance of insulin pump adverse events</div>
-                <div class="venue">Manuscript in preparation</div>
-              </div>
-            </div>
-            <div class="selected-item">
-              <div class="year">in prep</div>
-              <div>
-                <div class="title">Hybrid AI-augmented pipelines for emerging-risk detection in medical device adverse-event narratives</div>
-                <div class="venue">Manuscript in preparation</div>
+                <div class="title">Natural language processing to extract insulin pump risks from adverse event narratives</div>
+                <div class="venue">Manuscript under preparation</div>
               </div>
             </div>
           </div>
@@ -197,43 +182,54 @@ pagetitle: "Research — Soumik Purkayastha"
   <section class="thrust">
     <div class="thrust-header">
       <div class="thrust-numeral">iii</div>
-      <h2 class="thrust-title">Veteran health services research</h2>
+      <h2 class="thrust-title">Health services research (HSR)</h2>
     </div>
 
     <div class="thrust-body">
       <div class="col-spacer"></div>
       <div class="thrust-prose">
         <p>
-          At VA Pittsburgh's Center for Healthcare Evaluation, Research, and Promotion (CHERP), I serve as the lead statistician on a portfolio of health services research projects examining how Veterans receive — or fail to receive — evidence-based care. My role spans study design, causal inference, survey methodology, and pharmacoepidemiologic analysis. Several of these collaborations also surface methodological problems that motivate the work in Thrust I.
+          I serve as the statistician on a portfolio of health services and clinical research projects, most of them at VA Pittsburgh's Center for Healthcare Evaluation, Research, and Promotion (CHERP).
         </p>
         <p>
-          Active projects fall into five substantive areas. <strong>Medication initiation and persistence</strong> work, with Drs. Tim Anderson and Utibe Essien, examines hospital-discharge prescribing for alcohol use disorder, guideline-directed therapy for heart failure with reduced ejection fraction, and SGLT2 inhibitor adherence. <strong>Social determinants and equity</strong> work, with Leslie Hausmann, focuses on health-related social needs among LGB+ Veterans and racial, ethnic, and sex-based concordance in social-risk reporting. <strong>Cancer prevention</strong> work, with José Zevallos, models the projected burden of HPV-positive oropharyngeal cancer in the Veteran population under alternative vaccination strategies. <strong>Pharmacogenomic implementation</strong> work, with Christine Kistler, examines whether VA's national pharmacogenomic program reduces adverse drug events among older Veterans in nursing-home care. <strong>Sarcoidosis and military exposures</strong> work, with Mohamed Seedahmed, identifies disease phenotypes among Veterans with documented exposure histories and pairs prognostic-tool development with target-trial emulation of first-line therapies.
+          Active projects span six areas:
         </p>
+        <ul class="thrust-list">
+          <li><strong>Medication initiation and persistence</strong>, with <a href="https://www.gim-crhc.pitt.edu/people/timothy-anderson-md-mas" target="_blank" class="name">Tim Anderson</a> and <a href="https://www.uressien.com" target="_blank" class="name">Utibe Essien</a></li>
+          <li><strong>Social determinants and health outcomes</strong>, with <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann</a></li>
+          <li><strong>Cancer prevention</strong>, with <a href="https://www.otolaryngology.pitt.edu/people/jose-p-zevallos-md-mph-facs" target="_blank" class="name">José Zevallos</a></li>
+          <li><strong>Pharmacogenomic implementation</strong>, with <a href="https://www.cherp.research.va.gov/CHERP/people/chrissy-kistler.asp" target="_blank" class="name">Christine Kistler</a></li>
+          <li><strong>Sarcoidosis and military exposures</strong>, with <a href="https://www.cherp.research.va.gov/CHERP/people/mohamed-seedahmed.asp" target="_blank" class="name">Mohamed Seedahmed</a></li>
+          <li><strong>Transplantation and surgical outcomes</strong>, with <a href="https://www.surgery.pitt.edu/people/vrishketan-sethi-md" target="_blank" class="name">Vrishketan Sethi</a></li>
+        </ul>
 
-        <div class="sub-block">
-          <div class="sub-block-label">Collaborators</div>
-          <p class="collaborators">
-            Health services research is conducted with investigators at CHERP and across VA Pittsburgh — including <a href="https://www.gim-crhc.pitt.edu/people/timothy-anderson-md-mas" target="_blank" class="name">Drs. Tim Anderson</a>, <a href="https://www.uressien.com" target="_blank" class="name">Utibe Essien</a>, <a href="https://www.cherp.research.va.gov/CHERP/people/leslie-hausmann.asp" target="_blank" class="name">Leslie Hausmann</a>, <a href="https://www.otolaryngology.pitt.edu/people/jose-p-zevallos-md-mph-facs" target="_blank" class="name">José Zevallos</a>, <a href="https://www.cherp.research.va.gov/CHERP/people/chrissy-kistler.asp" target="_blank" class="name">Christine Kistler</a>, and <a href="https://www.cherp.research.va.gov/CHERP/people/mohamed-seedahmed.asp" target="_blank" class="name">Mohamed Seedahmed</a> — and with <a href="https://www.surgery.pitt.edu/people/vrishketan-sethi-md" target="_blank" class="name">Vrishketan Sethi</a> at the UPMC Department of Surgery on deceased-donor transplantation.
-          </p>
-        </div>
 
         <div class="sub-block">
           <div class="sub-block-label">Funding</div>
           <div class="funding-group">
             <div class="funding-status">Awarded / Active</div>
             <p class="funding">
-              <span class="src">VA Health Systems Research</span> — Co-Investigator, CENTER FOR HEALTHCARE EVALUATION, RESEARCH, AND PROMOTION (PIs: Suda and Groeneveld), 2024–29<br>
               <span class="src">VA Health Systems Research</span> — Co-Investigator, CHARACTERIZING THE QUALITY AND EQUITY OF EVIDENCE-BASED PRESCRIBING FOR HOSPITALIZED VETERANS (PIs: Anderson and Essien), 2026–29<br>
-              <span class="src">VA Health Systems Research</span> — Co-Investigator, OPTIMIZING HPV VACCINATION STRATEGIES FOR HEAD AND NECK CANCER PREVENTION IN VETERANS (PI: Zevallos), awarded 12.2025<br>
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, OPTIMIZING HPV VACCINATION STRATEGIES FOR HEAD AND NECK CANCER PREVENTION IN VETERANS (PI: Zevallos), awarded, just-in-time (JIT) review in progress, 2027–28<br>
+              <span class="src">VA Airborne Hazards and Burn Pits Center of Excellence</span> — Co-Investigator, THE IMPACT OF SERVICE-RELATED BURN PIT AND EMBEDDED METAL FRAGMENTS EXPOSURE ON SARCOIDOSIS INCIDENCE AND MORTALITY (PI: Seedahmed), 2026–27<br>
+              <span class="src">VA Health Systems Research (CDA-2)</span> — Co-Investigator, UNDERSTANDING HOW MILITARY EXPOSURES INFLUENCE SARCOIDOSIS PATTERNS, PROGNOSIS, AND TREATMENT RESPONSE TO IMPROVE OUTCOMES FOR VETERANS (PI: Seedahmed), awarded, 2027–32<br>
               <span class="src">Merck</span> — Co-Investigator, HPV VACCINATION AND THE FUTURE BURDEN OF HPV+ OROPHARYNGEAL CANCER IN THE VETERANS HEALTH ADMINISTRATION (PI: Zevallos), 2025–26<br>
-              <span class="src">VA Office of Health Equity</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress<br>
-              <span class="src">VA Competitive Career Development Fund (VISN 4)</span> — Co-Investigator, HEALTH-RELATED SOCIAL NEEDS AND SUICIDALITY AMONG SEXUAL MINORITY VETERANS (PI: Gordon), 2024–25
+              <span class="src">VA Office of Health Outcomes</span> — Co-Investigator, DEVELOPING USER-CENTERED REPORTING STRATEGIES TO PROMOTE EQUITY IN THE VETERANS HEALTH ADMINISTRATION (PI: Hausmann), in progress
             </p>
           </div>
           <div class="funding-group">
-            <div class="funding-status">Under review</div>
+            <div class="funding-status">Proposed / under review</div>
             <p class="funding">
-              <span class="src">National Institutes of Health</span> — Co-Investigator, EVALUATING THE VA NATIONAL PHARMACOGENOMIC PROGRAM TO REDUCE ADVERSE DRUG EVENTS IN OLDER ADULTS IN THE VA NURSING HOME (PI: Kistler), submitted 04.2026
+              <span class="src">National Institutes of Health (R21)</span> — Co-Investigator, EVALUATING THE VA NATIONAL PHARMACOGENOMIC PROGRAM TO REDUCE ADVERSE DRUG EVENTS IN OLDER ADULTS IN THE VA NURSING HOME (PI: Kistler), JIT review in progress, 2027–28<br>
+              <span class="src">National Institutes of Health (R01)</span> — Co-Investigator, ADVANCING EVIDENCE-BASED PRESCRIBING FOR PATIENTS HOSPITALIZED WITH CARDIOPULMONARY CONDITIONS (PIs: Anderson and Essien), proposed, 2027–32
+            </p>
+          </div>
+          <div class="funding-group">
+            <div class="funding-status">Completed</div>
+            <p class="funding">
+              <span class="src">VA Health Systems Research</span> — Co-Investigator, CENTER FOR HEALTHCARE EVALUATION, RESEARCH, AND PROMOTION (PIs: Suda and Groeneveld)<br>
+              <span class="src">National Institutes of Health (Diversity Supplement)</span> — Co-Investigator, DEVELOPMENT OF CLINICAL PREDICTION MODELS FOR PULMONARY OUTCOMES IN SARCOIDOSIS (PI: Seedahmed), 2026<br>
+              <span class="src">VA Competitive Career Development Fund (VISN 4)</span> — Co-Investigator, HEALTH-RELATED SOCIAL NEEDS AND SUICIDALITY AMONG SEXUAL MINORITY VETERANS (PI: Gordon), 2024–25
             </p>
           </div>
         </div>
@@ -282,14 +278,6 @@ pagetitle: "Research — Soumik Purkayastha"
               </div>
             </div>
 
-          </div>
-        </div>
-
-        <div class="sub-block">
-          <div class="sub-block-label">Software</div>
-          <div class="pkg-list">
-            <div class="pkg-line"><a href="https://github.com/soumikp/2026_surveyCD" class="pkg-name">swaoBN</a><span class="pkg-tag">R · dev</span></div>
-            <div class="pkg-line"><a href="https://github.com/soumikp/2026_fedgee" class="pkg-name">FedGEE</a><span class="pkg-tag">R · dev</span></div>
           </div>
         </div>
 
