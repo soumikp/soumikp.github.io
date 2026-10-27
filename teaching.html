@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -34,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html-640605f58ae58ee79329c070719e555b.min.css" rel="stylesheet" append-hash="true" data-mode="light">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <style>html{ scroll-behavior: smooth; }</style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -77,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="course-code">BIOST 2155</div>
           <div class="course-meta-line">Fall 2025 · Fall 2026 · primary instructor</div>
         </div>
-        <h3 class="course-title">Introductory Statistical Learning for Health Sciences</h3>
+        <h3 class="course-title"><a href="https://soumikp.github.io/2026_sl4hds/" target="_blank" rel="noopener noreferrer">Introductory Statistical Learning for Health Sciences</a></h3>
         <p class="course-desc">
           A graduate course introducing the foundations of supervised and unsupervised statistical learning for second-year MS Biostatistics and early-PhD students. Topics span regularized regression, classification (including support vector machines and generative models), clustering, dimensionality reduction, decision trees, and ensemble methods, with hands-on R implementations on health-science datasets.
         </p>
@@ -91,9 +94,20 @@ ul.task-list li input[type="checkbox"] {
           <div class="course-code">PUBHLT 0411</div>
           <div class="course-meta-line">Fall 2026 · co-instructor</div>
         </div>
-        <h3 class="course-title">Statistical Packages for Public Health Data Analysis</h3>
+        <h3 class="course-title"><a href="https://soumikp.github.io/pubhlt0411-python/" target="_blank" rel="noopener noreferrer">Statistical Packages for Public Health Data Analysis</a></h3>
         <p class="course-desc">
           A Tier 3 course in the BS in Public Health program covering R and Python for data management, basic statistical analysis, graphical display, and reproducible reporting on public-health data. The course emphasizes hands-on practice and reproducibility as core competencies for undergraduate public-health analysts.
+        </p>
+      </article>
+
+      <article class="course">
+        <div class="course-header">
+          <div class="course-code">BIOST 2025</div>
+          <div class="course-meta-line">Spring 2026 · Spring 2027 · primary instructor</div>
+        </div>
+        <h3 class="course-title">Biostatistics Seminar</h3>
+        <p class="course-desc">
+          A 1-credit seminar for graduate students in the department, featuring talks on current research in biostatistics and health data science.
         </p>
       </article>
 

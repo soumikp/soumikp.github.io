@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -34,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html-640605f58ae58ee79329c070719e555b.min.css" rel="stylesheet" append-hash="true" data-mode="light">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <style>html{ scroll-behavior: smooth; }</style>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -66,11 +69,11 @@ ul.task-list li input[type="checkbox"] {
 
     <div class="titles">
       <p><span class="role">Assistant Professor</span>, Department of Biostatistics &amp; Health Data Science, University of Pittsburgh School of Public Health</p>
-      <p><span class="role">Research Biostatistician</span>, Center for Healthcare Evaluation, Research, and Promotion (CHERP), VA Pittsburgh Healthcare System</p>
+      <p><span class="role">Mathematical Statistician</span>, Center for Healthcare Evaluation, Research, and Promotion (CHERP), VA Pittsburgh Healthcare System</p>
     </div>
 
     <p class="program">
-      I develop statistical and AI methods for discovering structure, quantifying association, and extracting safety-relevant signal from complex health data. My methodological work spans weighted Bayesian network learning, information-theoretic association estimation, and federated inference. With colleagues at CHERP, I co-develop clinical AI for medical device safety surveillance and serve as statistician/co-investigator on Veteran-focused health services research projects.
+      I develop statistical and AI methods for discovering structure, quantifying association, and extracting safety-relevant signal from complex health data. My methodological work spans weighted Bayesian network learning, information-theoretic association estimation, and federated inference. With colleagues at CHERP, I co-develop clinical AI for medical device safety surveillance and serve as statistician/co-investigator on health services and clinical research projects, with a focus on Veterans.
     </p>
 
     <div class="contact-row">
@@ -89,9 +92,9 @@ ul.task-list li input[type="checkbox"] {
       <div class="program-thrust">
         <div class="numeral">i</div>
         <div>
-          <h3>Graphical models for causality and association in complex biomedical data</h3>
+          <h3>Statistical methods for complex biomedical data</h3>
           <p>I develop graphical models for learning causal structure and quantifying directional association under realistic biomedical data conditions — survey weighting, mixed-typed variables, ordinal outcomes, and beyond rigid parametric assumptions. Recent work spans copula-based mutual information, generative exposure models and graphical models for learning network structure, and federated learning.</p>
-          <div class="keywords">copula models · density estimation · federated learning · graphical models · structure learning</div>
+          <div class="keywords">copula models · density estimation · federated learning · graphical models · robust inference · structure learning</div>
         </div>
       </div>
 
@@ -99,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
         <div class="numeral">ii</div>
         <div>
           <h3>AI models for medical device safety</h3>
-          <p>With colleagues at VA Pittsburgh, I co-develop AI models for surveillance of medical-device adverse-event reports — combining rule-based classifiers for auditable extraction of known risks with deep-learning and unsupervised methods for detecting emerging patterns. The current focus is insulin pumps and continuous glucose monitors, with ongoing extensions to broader Veteran-use device safety infrastructure.</p>
+          <p>With colleagues at VA Pittsburgh, I co-develop AI models for adverse-event surveillance. Our current focus is insulin pumps and continuous glucose monitors — the second-largest source of medical-device-related injuries reported to the FDA. Active extensions integrate extracted risk signal into provider-facing registries and Veteran-facing safety education materials.</p>
           <div class="keywords">adverse-event surveillance · deep learning · foundation models · trustworthy AI</div>
         </div>
       </div>
@@ -107,8 +110,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="program-thrust">
         <div class="numeral">iii</div>
         <div>
-          <h3>Veteran health services research</h3>
-          <p>I serve as the statistician on a portfolio of research at CHERP examining medication initiation patterns, social determinants of health, and equity in care among Veterans. Active threads include alcohol use disorder treatment, guideline-directed therapy for heart failure, social risks among sexual and gender minority Veterans, and HPV vaccination.</p>
+          <h3>Health services research (HSR)</h3>
+          <p>I serve as the statistician on a portfolio of health services and clinical research projects, most of them at VA Pittsburgh's Center for Healthcare Evaluation, Research, and Promotion (CHERP). Active threads include alcohol use disorder treatment, guideline-directed therapy for heart failure, social risks among sexual and gender minority Veterans, HPV vaccination, and organ transplantation.</p>
           <div class="keywords">causal inference · micro- and macro-simulation models · pharmacoepidemiology · survey design · </div>
         </div>
       </div>
@@ -187,6 +190,12 @@ ul.task-list li input[type="checkbox"] {
       </div>
 
       <div class="pkg">
+        <div class="name"><a href="https://github.com/soumikp/causalCovGEM" target="_blank" class="name">causalCovGEM</a></div>
+        <div class="desc">Covariate-adjusted bivariate causal discovery via the generative exposure model.</div>
+        <div class="status">R · Github</div>
+      </div>
+
+      <div class="pkg">
         <div class="name"><a href="https://github.com/soumikp/2026_surveyCD" target="_blank" class="name">swaoBn</a></div>
         <div class="desc">Survey-weighted, covariate-adjusted ordinal Bayesian network learning.</div>
         <div class="status">R · in development</div>
@@ -212,6 +221,21 @@ ul.task-list li input[type="checkbox"] {
     <div class="news">
 
       <div class="news-item">
+        <div class="when">Oct 2026</div>
+        <div class="what">Collaborative paper on a yoga intervention for idiopathic pulmonary fibrosis (YES-IPF) published in <a href="https://doi.org/10.1016/j.rmed.2026.109194" target="_blank">Respiratory Medicine</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Sep 2026</div>
+        <div class="what">Collaborative paper on living donor liver transplant for intrahepatic cholangiocarcinoma published in <a href="https://doi.org/10.1016/j.ajt.2026.09.039" target="_blank">American Journal of Transplantation</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Jul 2026</div>
+        <div class="what">Collaborative paper on surgical management trends in oropharyngeal cancer accepted at <a href="https://doi.org/10.1002/hed.70396" target="_blank">Head &amp; Neck</a>.</div>
+      </div>
+
+      <div class="news-item">
         <div class="when">June 2026</div>
         <div class="what">Trainee <a href="https://www.linkedin.com/in/feier-chang/" target="_blank">Feier Chang</a> won the 2026 WNAR Most Outstanding Student Presentation Award.</div>
       </div>
@@ -235,6 +259,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="news-item">
         <div class="when">Jan 2026</div>
         <div class="what">Paper on quantification and cross-fitting inference under generative exposure mapping models accepted at <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0236_na.pdf" target="_blank">Statistica Sinica</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Dec 2025</div>
+        <div class="what">Work on social risks and social needs concordance among Veterans accepted at <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845145" target="_blank">JAMA Network Open</a>.</div>
       </div>
 
     </div>
