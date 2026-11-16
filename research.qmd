@@ -45,7 +45,7 @@ pagetitle: "Research — Soumik Purkayastha"
           <div class="funding-group">
             <div class="funding-status">Proposed</div>
             <p class="funding">
-              <span class="src">National Institutes of Health (R21)</span> — Principal Investigator, RESOLVING THE CAUSAL DIRECTION OF DEPRESSION AND INFLAMMATION: A SURVEY-WEIGHTED STRUCTURE LEARNING APPROACH, 2027–28
+              <span class="src">National Institutes of Health (R21)</span> — Principal Investigator, PREDICTING THE COURSE OF DEPRESSION AND INFLAMMATION IN U.S. ADULTS: SURVEY-AWARE TESTS OF PROSPECTIVE CROSS-LAGS AND THEIR MODIFIERS, 2027–28
             </p>
           </div>
           <div class="funding-group">
@@ -105,7 +105,7 @@ pagetitle: "Research — Soumik Purkayastha"
               <div class="year">in submission</div>
               <div>
                 <div class="title"><a href="https://github.com/soumikp/2026_fedGee/blob/main/inst/submissions/2026_04_wnar/main.pdf" target="_blank">Fed-GEE: Federated generalized estimating equations for privacy-preserving population-level inference</a></div>
-                <div class="venue">Manuscript under preparation</div>
+                <div class="venue">Manuscript in submission · <a href="https://wnar.org/news/13767719" target="_blank">2026 WNAR Outstanding Written Paper Award</a></div>
               </div>
             </div>
 
@@ -150,7 +150,7 @@ pagetitle: "Research — Soumik Purkayastha"
           <div class="funding-group">
             <div class="funding-status">Awarded</div>
             <p class="funding">
-              <span class="src">Breakthrough T1D</span> — Co-Investigator, AI-ASSISTED DEVICE RISK IDENTIFICATION SYSTEM TO PERFORM RAPID AND ONGOING IDENTIFICATION OF INSULIN PUMP RISKS (PI: Codario), 2026–27
+              <span class="src">Breakthrough T1D</span> — Co-Investigator, ACCELERATING THE IDENTIFICATION AND MITIGATION OF INSULIN PUMP RISKS USING ARTIFICIAL INTELLIGENCE (PIs: Codario and Estock), 2026–27
             </p>
           </div>
           <div class="funding-group">

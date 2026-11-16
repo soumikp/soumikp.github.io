@@ -9,6 +9,8 @@ pagetitle: "Home — Soumik Purkayastha"
 
     <h1 class="name">Soumik Purkayastha</h1>
 
+    <div class="hero-grid">
+    <div class="hero-main">
     <div class="titles">
       <p><span class="role">Assistant Professor</span>, Department of Biostatistics &amp; Health Data Science, University of Pittsburgh School of Public Health</p>
       <p><span class="role">Mathematical Statistician</span>, Center for Healthcare Evaluation, Research, and Promotion (CHERP), VA Pittsburgh Healthcare System</p>
@@ -24,6 +26,33 @@ pagetitle: "Home — Soumik Purkayastha"
       <a href="https://github.com/soumikp" target="_blank" rel="noopener noreferrer">GitHub</a>
       <a href="https://orcid.org/0000-0002-3619-2804" target="_blank" rel="noopener noreferrer">ORCID</a>
       <a href="files/Purkayastha_CV.pdf" target="_blank" rel="noopener noreferrer">CV (pdf)</a>
+    </div>
+    </div>
+    <aside class="news-panel">
+      <div class="section-label">News</div>
+      <div class="news">
+
+      <div class="news-item">
+        <div class="when">Oct 2026</div>
+        <div class="what">Starting as an editorial board member of <em>BMC Health Services Research</em>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Oct 2026</div>
+        <div class="what">Collaborative paper on a yoga intervention for idiopathic pulmonary fibrosis (YES-IPF) published in <a href="https://doi.org/10.1016/j.rmed.2026.109194" target="_blank">Respiratory Medicine</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Sep 2026</div>
+        <div class="what">Collaborative paper on living donor liver transplant for intrahepatic cholangiocarcinoma published in <a href="https://doi.org/10.1016/j.ajt.2026.09.039" target="_blank">American Journal of Transplantation</a>.</div>
+      </div>
+
+      <div class="news-item">
+        <div class="when">Jun 2026</div>
+        <div class="what">Trainee <a href="https://www.linkedin.com/in/feier-chang/" target="_blank">Feier Chang</a> won the <a href="https://wnar.org/news/13767719" target="_blank">2026 WNAR Outstanding Written Paper Award</a> for our Fed-GEE paper.</div>
+      </div>
+      </div>
+    </aside>
     </div>
   </header>
 
@@ -54,7 +83,7 @@ pagetitle: "Home — Soumik Purkayastha"
         <div>
           <h3>Health services research (HSR)</h3>
           <p>I serve as the statistician on a portfolio of health services and clinical research projects, most of them at VA Pittsburgh's Center for Healthcare Evaluation, Research, and Promotion (CHERP). Active threads include alcohol use disorder treatment, guideline-directed therapy for heart failure, social risks among sexual and gender minority Veterans, HPV vaccination, and organ transplantation.</p>
-          <div class="keywords">causal inference · micro- and macro-simulation models · pharmacoepidemiology · survey design · </div>
+          <div class="keywords">causal inference · micro- and macro-simulation models · pharmacoepidemiology · survey design</div>
         </div>
       </div>
 
@@ -158,56 +187,4 @@ pagetitle: "Home — Soumik Purkayastha"
     </div>
   </section>
 
-  <section>
-    <div class="section-label">News</div>
-    <div class="news">
-
-      <div class="news-item">
-        <div class="when">Oct 2026</div>
-        <div class="what">Collaborative paper on a yoga intervention for idiopathic pulmonary fibrosis (YES-IPF) published in <a href="https://doi.org/10.1016/j.rmed.2026.109194" target="_blank">Respiratory Medicine</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Sep 2026</div>
-        <div class="what">Collaborative paper on living donor liver transplant for intrahepatic cholangiocarcinoma published in <a href="https://doi.org/10.1016/j.ajt.2026.09.039" target="_blank">American Journal of Transplantation</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Jul 2026</div>
-        <div class="what">Collaborative paper on surgical management trends in oropharyngeal cancer accepted at <a href="https://doi.org/10.1002/hed.70396" target="_blank">Head &amp; Neck</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">June 2026</div>
-        <div class="what">Trainee <a href="https://www.linkedin.com/in/feier-chang/" target="_blank">Feier Chang</a> won the 2026 WNAR Most Outstanding Student Presentation Award.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">May 2026</div>
-        <div class="what">Work on drug overdose mortality decline in the United States accepted at
- <a href="https://www.sciencedirect.com/science/article/pii/S1600613526009810" target="_blank">American Journal of Transplantation</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Apr 2026</div>
-        <div class="what">Work on medications for alcohol use disorder among hospitalized Veterans accepted at <a href="https://doi.org/10.7326/ANNALS-26-00089" target="_blank">Annals of Internal Medicine</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Feb 2026</div>
-        <div class="what">Paper on minimum Bregman divergence inference accepted at <a href="https://doi.org/10.3390/math14040670" target="_blank">Mathematics</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Jan 2026</div>
-        <div class="what">Paper on quantification and cross-fitting inference under generative exposure mapping models accepted at <a href="https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2025-0236_na.pdf" target="_blank">Statistica Sinica</a>.</div>
-      </div>
-
-      <div class="news-item">
-        <div class="when">Dec 2025</div>
-        <div class="what">Work on social risks and social needs concordance among Veterans accepted at <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2845145" target="_blank">JAMA Network Open</a>.</div>
-      </div>
-
-    </div>
-  </section>
 ```

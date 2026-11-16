@@ -1096,3 +1096,30 @@ h2.section-title {
     margin-top: 0.4rem;
     line-height: 1.45;
   }
+/* —————— Hero two-panel layout —————— */
+  .hero-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 19rem;
+    gap: 3rem;
+    align-items: stretch;
+  }
+  .news-panel {
+    border-left: 1px solid var(--rule-soft);
+    padding-left: 1.75rem;
+    margin-top: 0.4rem;
+    display: flex;
+    flex-direction: column;
+  }
+  .news-panel .section-label { margin-bottom: 0.5rem; }
+  .news-panel .news { max-width: none; flex: 1; display: flex; flex-direction: column; justify-content: space-between; }
+  .news-panel .news-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+    padding: 0.85rem 0;
+  }
+  .news-panel .news-item .what { font-size: 0.9rem; line-height: 1.45; }
+  @media (max-width: 860px) {
+    .hero-grid { grid-template-columns: 1fr; gap: 2rem; }
+    .news-panel { border-left: none; padding-left: 0; border-top: 1px solid var(--rule-soft); padding-top: 1.5rem; }
+  }
+  .news-panel .news-item:last-child { padding-bottom: 0.2rem; }
